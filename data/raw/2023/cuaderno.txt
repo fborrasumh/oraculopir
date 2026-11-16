@@ -1,0 +1,2367 @@
+MINISTERIO
+DE SANIDAD
+PRUEBAS SELECTIVAS 2022 NÚMERO DE MESA:
+CUADERNO DE EXAMEN NÚMERO DE EXPEDIENTE:
+Nº DE D.N.I. O EQUIVALENTE PARA EXTRANJEROS:
+APELLIDOS Y NOMBRE:
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+PROHIBIDA LA REPRODUCCIÓN TOTAL O PARCIAL
+LANUBIRT
+LED
+NÓICACIDNI
+AL
+A
+ETNEMALOS
+RIRBA
+PSICOLOGÍA 2022
+PSICOLOGÍA - VERSIÓN: 0
+1. MUY IMPORTANTE: Compruebe que este Cuaderno de Examen, integrado por 200
+preguntas más 10 de reserva, lleva todas sus páginas y no tiene defectos de impresión. Si
+detecta alguna anomalía, pida otro Cuaderno de Examen a la Mesa. Realice esta operación
+al principio, pues si tiene que cambiar el cuaderno de examen posteriormente, se le facilitará
+una versión "0", que no coincide con su versión personal en la colocación de preguntas y no
+dispondrá de tiempo adicional.
+2. Compruebe que el número de versión de examen que figura en su “Hoja de Respuestas”,
+coincide con el número de versión que figura en el cuestionario. Compruebe también el resto
+de sus datos identificativos.
+3. La “Hoja de Respuestas” está nominalizada. Se compone de dos ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja.
+4. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” corresponde al
+número de pregunta del cuestionario. Sólo se valoran las respuestas marcadas en la “Hoja de
+Respuestas”, siempre que se tengan en cuenta las instrucciones contenidas en la misma.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de Examen
+y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cuatro horas y treinta
+minutos improrrogables y que están prohibidos el uso de calculadoras y la utilización de
+teléfonos móviles, o de cualquier otro dispositivo con capacidad de almacenamiento de
+información o posibilidad de comunicación mediante voz o datos.
+7. No se entregarán, en ningún caso, los cuestionarios con las preguntas de examen. Las
+distintas versiones de los cuadernos de examen se publicarán en la Web del Ministerio de
+Sanidad, al cierre de la última mesa de examen.
+
+1. ¿Cuál de las siguientes es una condición para
+que pueda aplicarse el estadístico Chi cuadrado
+de independencia en una tabla de contingen-
+cia?:
+1. Igual número de filas que de columnas.
+2. Marginales de fila iguales a los marginales de
+columna.
+3. Todos los residuales son 0.
+4. No más del 20% de las frecuencias esperadas
+son menores a 5.
+2. El tamaño de la caja central de un diagrama de
+caja (Box Plot) viene dado por:
+1. La amplitud intercuartílica.
+2. El rango.
+3. La desviación típica.
+4. La diferencia entre media y mediana.
+3. ¿Qué estadístico emplearemos si queremos
+conocer la relación lineal entre las variables X e
+Y eliminando el efecto que una tercera variable
+(Z) tiene sobre Y?:
+1. Covarianza.
+2. Regresión.
+3. Correlación semiparcial.
+4. Correlación parcial.
+4. El diseño conocido como test de anclaje o ítems
+de anclaje es uno de los empleados en los proce-
+sos de:
+1. Equiparación.
+2. Baremación.
+3. Validez de contenido.
+4. Fiabilidad interjueces.
+5. Con el fin de probar el efecto de un factor, sien-
+do el diseño no equilibrado y ante el incumpli-
+miento del supuesto de homocedasticidad, la
+prueba adecuada es:
+1. F de Levene.
+2. Durbin-Watson.
+3. W de Welch.
+4. F de Hartley.
+máxima
+6. En un diseño multigrupos al azar, si el investi-
+gador desea realizar comparaciones a posteriori
+entre todos los pares de medias, en el caso de
+cumplimiento de los supuestos del modelo esta-
+dístico y para garantizar la mayor potencia y
+control del error de tipo I, la prueba más ade-
+cuada es:
+1. El procedimiento de Bonferroni.
+2. Prueba HSD de Tukey.
+3. Prueba de Dunnet.
+4. Prueba de Fisher.
+- 1
+7. En el ámbito de las medidas del tamaño del
+efecto, para evaluar el impacto de un determi-
+nado tratamiento, indique cuál de las siguientes
+afirmaciones es correcta:
+1. Eta cuadrado es equivalente al coeficiente de
+determinación de un modelo de regresión.
+2. Omega cuadrado es un estimador sesgado por
+el tamaño muestral y se recomienda utilizar
+eta cuadrado en su lugar.
+3. Delta de Cliff es un estimador paramétrico del
+tamaño del efecto.
+4. Sólo la “d” de Cohen puede informar acerca
+del tamaño de efecto de un tratamiento.
+8. De acuerdo con la teoría de los lemmas de Le-
+velt (1989) sobre la estructura interna de las
+palabras de nuestro léxico, ¿qué tipo de infor-
+mación, entre otras, contiene el lemma de una
+palabra?:
+1. La morfología de la palabra.
+2. La fonología de la palabra.
+3. La ortografía de la palabra.
+4. La sintaxis de la palabra.
+9. En el campo de estudio de la memoria semánti-
+ca, ¿qué procedimiento experimental utilizaron
+Collins y Quillian (1969) para someter a con-
+traste empírico su modelo de red jerárquica?:
+1. Tarea de asociación de palabras.
+2. Tarea de verificación de frases.
+3. Tarea de denominación (naming).
+4. Tarea de categorización semántica.
+10. En el contexto del estudio sobre el razonamien-
+to silogístico, ¿cómo se denomina la hipótesis,
+planteada por Woodworth y Sells (1935), que
+propone que cuando un sujeto elabora una
+conclusión lo hace en función de la impresión
+global producida por las premisas?:
+1. Efecto de la figura.
+2. Efecto atmósfera.
+3. Efecto de anclaje.
+4. Efecto de la conjunción.
+11. ¿Qué función matemática utiliza S. S. Stevens
+(1957) para enunciar su ley psicofísica, derivada
+de los resultados obtenidos con métodos psicofí-
+sicos directos?:
+1. La potencia.
+2. El logaritmo.
+3. La integral.
+4. La raíz cuadrada.
+1 -
+12. De acuerdo con la hipótesis de los niveles de
+procesamiento de Craik y Lockhart (1972),
+¿qué tipo de repaso o repetición del material
+estudiado genera un mejor recuerdo de la in-
+formación a largo plazo?:
+1. El repaso de mantenimiento.
+2. El repaso significativo.
+3. El repaso elaborativo.
+4. El repaso declarativo.
+13. En el marco del estudio del “motivo de afilia-
+ción”, McAdams (1980) intentó resaltar las
+experiencias positivas que permiten aumentar
+la calidad y armonía de las relaciones interper-
+sonales; en este sentido se centró en el denomi-
+nado:
+1. Motivo de apego.
+2. Motivo de vinculación emocional.
+3. Motivo de empatía.
+4. Motivo de intimidad.
+14. En el campo de estudio del razonamiento condi-
+cional, se utiliza con frecuencia la tarea de se-
+lección de Wason (1966), que consiste en la
+presentación de unas tarjetas con diversos estí-
+mulos. ¿Cuántas tarjetas componen la tarea?:
+1. Dos.
+2. Tres.
+3. Cuatro.
+4. Cinco.
+15. Cuando los niños comienzan a hablar, en oca-
+siones usan una palabra para referirse a una
+familia de objetos parecidos (p. ej., llaman ‘co-
+che’ a todos los vehículos con ruedas). Este
+fenómeno se denomina:
+1. Extensión o sobreextensión.
+2. Generalización sintáctica.
+3. Habla telegráfica.
+4. Palabras pivote.
+16. Entre los 12 y 18 meses de vida, los bebés, en
+lugar de repetir conductas que producen conse-
+cuencias agradables, experimentan con nuevas
+conductas para ver lo que sucede. Este tipo de
+acciones se denominan:
+1. Adaptación.
+2. Asimilación.
+3. Reacciones circulares secundarias.
+4. Reacciones circulares terciarias.
+- 2
+17. A la capacidad, desarrollada especialmente en
+la edad escolar, de evaluar una tarea cognitiva
+para determinar la mejor manera de realizarla
+y de controlar y supervisar su ejecución, se le
+denomina:
+1. Acomodación.
+2. Andamiaje.
+3. Metacognición.
+4. Periodo operacional concreto.
+18. Si cuando ponemos a un bebé ante la técnica de
+laboratorio de la situación extraña vemos que
+no llora cuando es separado de su cuidador
+principal y no busca su contacto cuando regre-
+sa, su apego es del tipo:
+1. Desorganizado.
+2. Ambivalente.
+3. Seguro.
+4. Evasivo.
+19. Señale cómo se denomina la teoría que plantea
+que, a lo largo de la vida, las personas estamos
+rodeadas de círculos concéntricos de relaciones
+de mayor o menor grado de cercanía de los que
+emana el apoyo social en las transiciones vitales,
+las crisis, etc.:
+1. La constancia socioemocional.
+2. El amortiguador (o buffer) social.
+3. La caravana (o convoy) social.
+4. La teoría del ciclo vital.
+20. De acuerdo con E. Erikson, el reto evolutivo
+típico que se plantea a las personas en la adultez
+emergente es el siguiente:
+1. Intimidad frente a aislamiento.
+2. Generatividad frente a estancamiento.
+3. Productividad frente a desesperanza.
+4. Orientación al presente frente a orientación al
+futuro.
+21. Cuando ante un dilema moral la persona enfa-
+tiza los principios y valores éticos universales,
+asumiendo incluso los costes personales que
+pudiera tener su decisión, nos encontramos ante
+un razonamiento moral:
+1. Heterocéntrico.
+2. Posconvencional.
+3. Convencional.
+4. Posformal.
+2 -
+22. Con respecto de los síndromes afásicos cortica-
+les, señale la opción correcta:
+1. La depresión y la hemiplejia derecha se en-
+cuentran entre los problemas característicos
+de la afasia transcortical mixta.
+2. Las lesiones témporo-parietales y témporo-
+occipitales se relacionan con la afasia senso-
+rial transcortical.
+3. La repetición no está afectada en la afasia
+sensorial transcortical y en la afasia anómica
+amnésica.
+4. La comprensión auditiva suele ser pobre en la
+afasia anómica amnésica.
+23. Señale en cuál de los siguientes modelos de re-
+gulación emocional se proponen tres componen-
+tes básicos, a saber, autocompasión, autoestímu-
+lo y autoinstrucción activa, para logar el auto-
+apoyo efectivo:
+1. Modelo de regulación emocional de Gross
+(1998, 2011).
+2. Modelo de afrontamiento adaptativo de las
+emociones de Berking y Whitley (2014).
+3. Modelo de regulación emocional basado en el
+procesamiento emocional de Hervás (2011).
+4. El modelo de terapia dialéctica-conductual de
+Linehan (1993).
+24. Señale cuáles son las cuatro etapas del modelo
+ampliado de regulación emocional de Gross
+(2015):
+1. Identificación, selección, implementación y
+monitorización.
+2. Conciencia, identificación y etiquetación,
+identificación de factores causales y mante-
+nedores, y modificación activa de emociones.
+3. Identificación, aceptación, afrontamiento y
+autoapoyo.
+4. Apertura emocional, aceptación emocional,
+análisis emocional y modulación emocional.
+25. Respecto del trastorno facticio (DSM-5), señale
+la opción FALSA:
+1. Los individuos con trastorno facticio impues-
+to a uno mismo o impuesto a otro corren el
+riesgo de experimentar un gran sufrimiento
+psicológico o deterioro funcional.
+2. Entre los pacientes hospitalarios, se estima
+que alrededor del 1% puede tener presenta-
+ciones que cumplan los criterios de trastorno
+facticio.
+3. Por lo que se refiere al curso del trastorno, la
+presentación más frecuente es en forma de
+episodios intermitentes.
+4. Su inicio suele ser en la adolescencia.
+- 3
+26. Señale la opción FALSA respecto de la anorexia
+nerviosa (AN) (DSM-5):
+1. La prevalencia a los 12 meses de la AN entre
+las mujeres jóvenes es aproximadamente del
+0,4%.
+2. La mayoría de los individuos con AN presen-
+ta una remisión a los 5 años del comienzo.
+3. Los niveles de tiroxina (T4) en el suero están
+normalmente altos.
+4. El hallazgo más sobresaliente en la explora-
+ción física es la emaciación.
+27. Señale la opción correcta respecto de los meno-
+res que presentan trastorno del apego reactivo
+(DSM-5):
+1. Suelen buscar consuelo cuando sienten males-
+tar, pero de forma peculiar.
+2. Los episodios de irritabilidad, tristeza o mie-
+do no son evidentes.
+3. Tienen la capacidad de crear apegos selecti-
+vos.
+4. Expresan emociones positivas de manera
+adecuada a sus figuras de apego.
+28. Los criterios diagnósticos del trastorno de estrés
+postraumático para niños mayores de 6 años
+(DSM-5) constan de una de las configuraciones
+sintomáticas siguientes:
+1. Uno o más síntomas de intrusión, uno o más
+síntomas de evitación o alteración cognitiva y
+del estado de ánimo y dos o más síntomas de
+reactividad o alerta.
+2. Uno o más síntomas de intrusión, uno o más
+síntomas de evitación, dos o más síntomas de
+alteraciones de la cognición y del estado de
+ánimo, y dos o más alteraciones de reactivi-
+dad o alerta.
+3. Uno o más síntomas de intrusión, uno o más
+síntomas de evitación, uno o más síntomas de
+alteración cognitiva y del estado de ánimo y
+dos o más síntomas de reactividad o alerta.
+4. Uno o más síntomas de intrusión, uno o más
+síntomas de evitación, uno o más síntomas de
+alteración cognitiva y del estado de ánimo, y
+uno o más síntomas de reactividad o alerta.
+3 -
+29. Señale cuál de las siguientes opciones NO hace
+referencia a una similitud entre la CIE-11 y el
+DSM-5 para el caso del autismo:
+1. Ambos manuales hacen referencia al autismo
+aludiendo al término “espectro autista”.
+2. Ambos manuales lo incluyen en los trastornos
+del neurodesarrollo.
+3. Ambos manuales incluyen 3 niveles para
+clasificar la gravedad del trastorno.
+4. Ambos manuales incluyen, como criterios
+nucleares, las dificultades para la comunica-
+ción e interacción social recíproca y los pa-
+trones restrictivos, repetitivos e inflexibles de
+comportamiento, intereses o actividades.
+30. Señale qué trastorno NO pertenece a la catego-
+ría de los trastornos del neurodesarrollo según
+la CIE-11:
+1. Trastorno por déficit de aten-
+ción/hiperactividad.
+2. Trastorno de conducta disruptiva.
+3. Trastorno por movimientos estereotipados.
+4. Trastorno del desarrollo de la coordinación
+motora.
+31. Señale qué alteración formal del pensamiento
+presenta un paciente que muestra un discurso
+muy indirecto para contestar a las preguntas
+que se le formulan, aunque finalmente acaba
+contestando. Cuando explica algo aporta mu-
+chos detalles irrelevantes (pero con alguna rela-
+ción con el tema principal), tediosos y, a veces,
+hace comentarios entre paréntesis excesivos:
+1. Pérdida de meta.
+2. Circunstancialidad.
+3. Habla distraída.
+4. Descarrilamiento.
+32. ¿Bajo qué tipo de delirio se engloban las expe-
+riencias de lectura del pensamiento, transmisión
+del pensamiento, robo del pensamiento y alie-
+nación del pensamiento?:
+1. Delirio de suplantación.
+2. Delirio de referencia o alusión.
+3. Delirio de control o pasividad.
+4. Delirio de persecución.
+- 4
+33. El fenómeno de kindling (sensibilización) en la
+depresión se refiere a que:
+1. Cada episodio sucesivo depresivo parece cada
+vez más dependiente del anterior y menos li-
+gado a factores estresantes.
+2. Cada episodio sucesivo depresivo parece cada
+vez más dependiente del anterior y más ligado
+a factores estresantes.
+3. Cada vez son necesarios más estresores para
+provocar reapariciones de episodios depresi-
+vos en personas con sesgos cognitivos no tra-
+tados.
+4. Cantidades cada vez más pequeñas de estre-
+sores pueden disparar reacciones de una in-
+tensidad comparable a los anteriores episo-
+dios.
+34. ¿Qué caracteriza a la preocupación patológica
+(o worry)?:
+1. Se experimenta como una autoafirmación
+negativa, autodespreciativa, automática, plau-
+sible y breve, que no se relaciona con la bús-
+queda de soluciones.
+2. Se experimenta como una cadena de pensa-
+mientos e imágenes, cargada de afecto nega-
+tivo y relativamente incontrolable, que repre-
+senta un intento improductivo de resolución
+mental de problemas futuros.
+3. Se experimenta como una cadena de pensa-
+mientos centrada de forma repetitiva y pasiva
+en los síntomas de malestar emocional, así
+como en sus posibles causas y consecuencias,
+y cuyo contenido también puede estar centra-
+do en acontecimientos negativos del pasado.
+4. Son creencias anómalas y extrañas que se
+mantienen con una convicción elevada.
+35. Señale cuál de las siguientes opciones hace refe-
+rencia a una característica diferenciadora de los
+trastornos depresivos y los trastornos bipolares:
+1. El tratamiento con antidepresivos tricíclicos
+es más eficaz en trastornos bipolares que en
+depresivos.
+2. Los antecedentes de varias generaciones con
+trastornos anímicos son más frecuentes en los
+trastornos bipolares que en los depresivos.
+3. Las quejas somáticas son más frecuentes en
+los trastornos bipolares que en los depresivos.
+4. Los episodios depresivos en el periparto son
+más comunes en los trastornos depresivos que
+en los bipolares.
+4 -
+36. Señale la opción correcta respecto de los especi-
+ficadores diagnósticos del trastorno de depre-
+sión mayor (DSM-5):
+1. En remisión total: implica ausencia de sínto-
+mas significativos del trastorno en los últimos
+3 meses.
+2. Con características psicóticas: indica la pre-
+sencia de alucinaciones y/o delirios congruen-
+tes siempre con el estado de ánimo.
+3. Grave: puede emplearse en casos en los que
+se produce una interferencia notable en el
+funcionamiento social u ocupacional, entre
+otros criterios necesarios.
+4. Con características mixtas: supone la presen-
+cia de síntomas de ansiedad la mayoría de los
+días.
+37. Respecto de la Teoría de Redes (TR) sobre el
+diagnóstico en depresión, señale la opción co-
+rrecta:
+1. Concibe los problemas psicológicos como
+elementos emergentes de un trastorno o en-
+fermedad latente.
+2. Considera que los síntomas y sus retroalimen-
+taciones dinámicas son en sí mismos el pro-
+blema y no una entidad latente.
+3. Mantiene la idea de los sistemas politéticos de
+clasificación, tales como el DSM y la CIE.
+4. La comorbilidad es entendida como la exis-
+tencia de una serie de entidades esenciales
+que conectan dos tipos de redes de síntomas.
+38. Según el DSM-5, ¿qué presentación NO se in-
+cluye en la categoría de otro trastorno bipolar y
+trastorno relacionado especificado?:
+1. Depresión con hipomanía mixta.
+2. Episodio hipomaníaco sin episodio previo de
+depresión mayor.
+3. Ciclotimia de corta duración.
+4. Episodios hipomaníacos de corta duración (2-
+3 días) y episodios de depresión.
+39. Señale cuál de las siguientes opciones hace refe-
+rencia a una característica diferencial entre
+depresiones unipolares y trastornos bipolares:
+1. La duración de los episodios depresivos es
+mayor en el trastorno bipolar.
+2. Los síntomas atípicos son más frecuentes en
+el trastorno bipolar.
+3. La edad de inicio es mayor en el trastorno
+bipolar.
+4. El retraso psicomotor es menos frecuente en
+el trastorno bipolar.
+- 5
+40. Respecto del trastorno ciclotímico (DSM-5),
+señale la afirmación correcta:
+1. Durante un periodo de dos años, los síntomas
+no han estado presentes durante más de tres
+meses seguidos.
+2. Se deben cumplir los criterios para episodio
+depresivo, maníaco o hipomaníaco.
+3. En población general, el trastorno ciclotímico
+es más frecuente en mujeres que en hombres.
+4. En los niños, la edad promedio de inicio del
+trastorno son los 6 años y medio.
+41. Según el grupo de Öst, y respecto de los tras-
+tornos fóbicos:
+1. La adquisición se produce, sobre todo, por
+condicionamiento o experiencia directa.
+2. La adquisición se produce, sobre todo, por
+aprendizaje vicario.
+3. La adquisición se produce, sobre todo, por
+transmisión de información de tipo negativo.
+4. Las personas no pueden recordar el origen de
+su fobia.
+42. Según el grupo de trabajo sobre cogniciones
+obsesivas compulsivas (OCCWG, 1997, 2005),
+¿cuál de las siguientes NO es una creencia dis-
+funcional propia del trastorno obsesivo-
+compulsivo?:
+1. Sobrevaloración de la importancia del pensa-
+miento.
+2. Responsabilidad exagerada.
+3. Intolerancia a la incertidumbre.
+4. Pensamiento dicotómico.
+43. Según el DSM-5, el trastorno de acumulación:
+1. Se considera un especificador del trastorno
+obsesivo-compulsivo de la personalidad.
+2. Requiere necesariamente la adquisición exce-
+siva de cosas que no se necesitan o para las
+que no se dispone de espacio.
+3. La acumulación es motivada por el deterioro
+cognitivo.
+4. Requiere necesariamente que exista dificultad
+persistente para deshacerse o renunciar a las
+posesiones.
+44. ¿Cuáles de los siguientes síntomas aparecen
+entre los requeridos para la definición de un
+ataque de pánico según criterios DSM-5?:
+1. Temblor o sacudidas y gritos o llanto incon-
+trolables.
+2. Parestesias y dolor de cabeza.
+3. Escalofríos o sensación de calor y miedo a
+perder el control o a volverse loco.
+4. Tensión muscular y sensación de dificultad
+para respirar o asfixia.
+5 -
+45. ¿Cuál de los siguientes NO es un criterio para el
+diagnóstico del trastorno de ansiedad social
+según el DSM-5?:
+1. La persona reconoce que el miedo es excesivo
+o irracional.
+2. El miedo o la ansiedad son desproporciona-
+dos a la amenaza real planteada por la situa-
+ción social y el contexto sociocultural.
+3. El miedo, la ansiedad o la evitación son per-
+sistentes y duran típicamente seis o más me-
+ses.
+4. El individuo tiene miedo de actuar de cierta
+manera o de mostrar síntomas de ansiedad
+que se valoren negativamente.
+46. Según los modelos cognitivos que explican la
+adquisición y mantenimiento de las fobias (p.
+ej., los modelos de Reiss), ¿cuál de los siguientes
+aspectos ocupa un papel central?:
+1. La autofocalización de la atención.
+2. La intolerancia a la incertidumbre y a la acti-
+vación fisiológica.
+3. Las expectativas de peligro y de ansiedad.
+4. Las metacogniciones.
+47. ¿Cuál de los siguientes síntomas se incluye entre
+los requeridos para el diagnóstico de trastorno
+de ansiedad generalizada según el DSM-5?:
+1. Sensación de pérdida de control.
+2. Palpitaciones.
+3. Dolor o molestias en el tórax.
+4. Irritabilidad.
+48. En el marco de los trastornos parafílicos (DSM-
+5), señale la opción FALSA:
+1. Se mantiene la categoría diagnóstica de feti-
+chismo travestista.
+2. El trastorno de fetichismo incluye el parcia-
+lismo.
+3. El trastorno masoquista sexual tiene la asfi-
+xiofilia como posible especificador.
+4. El trastorno de travestismo tiene el fetichismo
+como posible especificador.
+49. En cuanto a la clasificación de las disfunciones
+sexuales en el DSM-5, señale la opción FALSA:
+1. Desaparece la etiqueta de trastorno por aver-
+sión al sexo como categoría independiente.
+2. Engloba los problemas relacionados con la
+repuesta sexual o con el dolor asociado a la
+actividad sexual bajo la categoría de disfun-
+ciones sexuales.
+3. Los problemas relacionados con la reducción
+o ausencia del interés/excitación/deseo sexual
+se abordan en 2 categorías diferentes, una pa-
+ra el caso femenino y otra para el masculino.
+4. Desaparece la categoría de disfunción sexual
+inducida por sustancias/medicamentos.
+- 6
+50. Según la CIE-11, ¿cuál de los siguientes diag-
+nósticos NO se incluye en el capítulo 17 bajo la
+denominación de Condiciones relacionadas con
+la salud sexual?:
+1. Discordancia de género.
+2. Trastornos parafílicos.
+3. Disfunciones sexuales.
+4. Trastornos sexuales por dolor.
+51. Comparativamente con la esquizofrenia, ¿cuál
+de estas afirmaciones NO es cierta respecto al
+trastorno esquizofreniforme?:
+1. El inicio es más rápido.
+2. El inicio suele tener una fase prodrómica muy
+breve.
+3. Hay una mayor convicción, extensión y pre-
+sión de las ideas.
+4. Los síntomas negativos son menores.
+52. ¿Cuál de estas afirmaciones NO es cierta con
+respecto a la fase residual de la esquizofrenia?:
+1. Se produce una predominancia de los sínto-
+mas positivos frente a los negativos.
+2. En ocasiones quedan síntomas positivos, pero
+acompañados de crítica.
+3. La dimensión afectiva puede tener una impor-
+tante presencia.
+4. Se estima hasta un 80% de probabilidades de
+recaída en los cinco primeros años del primer
+episodio.
+53. ¿Cuál NO es una de las principales aseveracio-
+nes del modelo de Zubin para la esquizofrenia?:
+1. Ninguna de las variables postuladas por los
+modelos parciales es necesaria ni suficiente
+para explicar el trastorno.
+2. La esquizofrenia no es el cuadro tan maligno,
+persistente y deteriorante que se pensaba.
+3. El trastorno tiene un curso crónico.
+4. Si pudiéramos identificar marcadores de vul-
+nerabilidad e intervenir sobre ellos, preven-
+dríamos los episodios iniciales y los recurren-
+tes.
+54. ¿Cuál es una característica principal que debe
+estar presente en la variante logopénica de la
+afasia primaria progresiva?:
+1. Errores fonológicos en habla espontánea y
+nominación.
+2. Alteración de la capacidad de denominar ob-
+jetos.
+3. Ausencia de agramatismo puro.
+4. Deterioro en repetición de expresiones y fra-
+ses.
+6 -
+55. ¿Qué demencias comparten la pérdida de neu-
+ronas dopaminérgicas (área tegmental) y coli-
+nérgicas (prosencéfalo basal)?:
+1. Demencia tipo enfermedad de Hungtinton y
+demencia asociada a la enfermedad de Par-
+kinson.
+2. Demencia vascular y demencia asociada a la
+enfermedad de Hungtinton.
+3. Demencia por cuerpos de Lewy y demencia
+asociada a la enfermedad de Parkinson.
+4. Demencia vascular y demencia por cuerpos
+de Lewy.
+56. ¿En qué tipo de demencia resulta más definito-
+rio el deterioro de las funciones ejecutivas (per-
+severancia, desinhibición, desorganización y
+dificultad en la toma de decisiones), procesa-
+miento enlentecido y déficits relacionados con la
+atención?:
+1. Demencia tipo enfermedad de Hungtinton.
+2. Parálisis supranuclear progresiva.
+3. Demencia frontotemporal.
+4. Enfermedad de Pick.
+57. ¿Cuál sería una de las causas adquiridas poten-
+cialmente reversibles en las demencias?:
+1. Atrofia olivo-ponto-cerebelosa.
+2. Enfermedad tiroidea.
+3. Enfermedad de Binswanger.
+4. Enfermedad priónica familiar.
+58. La propuesta alternativa de la sección III del
+DSM-5 para los trastornos de la personalidad
+incluye la valoración dentro del funcionamiento
+interpersonal (criterio A) de:
+1. La empatía y la intimidad.
+2. El autoconcepto y la autodirección.
+3. Las relaciones interpersonales y la desregula-
+ción emocional.
+4. La identidad y la autodirección.
+59. La sustancia que en el caso de empezar a con-
+sumirla antes de los 16 años parece incrementar
+el riesgo de padecer tumor de testículos en va-
+rones es:
+1. La cocaína.
+2. El LSD.
+3. El alcohol.
+4. El cannabis.
+- 7
+60. Respecto del trastorno de pica (DSM-5), señale
+la opción correcta:
+1. Se observa el consumo persistente de sustan-
+cias no nutritivas aunque sean alimentarias.
+2. Se recomienda una edad mínima de 1 año
+para su diagnóstico.
+3. Las sustancias normalmente ingeridas tienden
+a variar con la edad y la disponibilidad de las
+mismas.
+4. La incidencia es muy superior en varones.
+61. ¿Cuál de las siguientes NO es una especificación
+indicada en el diagnóstico del trastorno especí-
+fico del aprendizaje, según el DSM-5, en cuanto
+al área académica o subaptitud afectada?:
+1. Con dificultades en la lectura.
+2. Con dificultad en la expresión escrita.
+3. Con dificultad matemática.
+4. Con dificultad en la expresión oral.
+62. Según la CIE-11, en la anorexia nerviosa el
+punto de corte del Índice de Masa Corporal
+para determinar un peso corporal significati-
+vamente bajo es:
+1. En adultos, inferior a 18,5; en niños (IMC
+para la edad), por debajo del percentil 7.
+2. En adultos, inferior a 17,5; en niños (IMC
+para la edad), por debajo del percentil 8.
+3. En adultos, inferior a 18,5; en niños (IMC
+para la edad), por debajo del percentil 5.
+4. En adultos, inferior a 18; en niños (IMC para
+la edad), por debajo del percentil 5.
+63. En el modelo jerárquico de disociación de van
+der Hart, van der Kolk y Boon (1996), ¿qué
+implica la disociación primaria?:
+1. El procesamiento fragmentado del aconteci-
+miento traumático.
+2. Percibir el acontecimiento sin experimentar
+un impacto emocional completo.
+3. El desarrollo de identidades separadas.
+4. Percibir el acontecimiento experimentando un
+impacto emocional completo.
+64. De acuerdo con la teoría de Kihlstrom para los
+trastornos disociativos, estos son considerados
+trastornos de:
+1. La identidad.
+2. La memoria.
+3. La integración.
+4. La representación.
+7 -
+65. ¿Cuáles son los fenómenos centrales del concep-
+to de disociación de Hilgard?:
+1. Inconsciencia y control involuntario.
+2. Consciencia y control involuntario.
+3. Inconsciencia y control voluntario.
+4. Consciencia y control voluntario.
+66. Desde el modelo del condicionamiento, por lo
+que se refiere a las víctimas de agresiones se-
+xuales, ¿cuál de las siguientes afirmaciones es
+correcta?:
+1. Las víctimas están más temerosas y ansiosas
+que las no víctimas.
+2. La exposición repetida a la agresión sexual
+disminuiría la magnitud del miedo.
+3. La ansiedad anticipatoria no propicia la evita-
+ción de situaciones lúdicas.
+4. Las situaciones ansiógenas se relacionan con
+estímulos incondicionados a la violación.
+67. En el síndrome de las piernas inquietas:
+1. Se produce malestar en las piernas y ocasio-
+nalmente en los brazos o el tronco, afectando
+negativamente a la capacidad para dormir.
+2. El empeoramiento nocturno de los síntomas
+es dependiente de la fatiga durante el día.
+3. Los síntomas se exacerban cuando el paciente
+está en continuo movimiento.
+4. Los pacientes evitan el movimiento como vía
+de alivio o eliminación de los síntomas.
+68. Según el informe sobre el consumo de drogas
+que elabora la Oficina sobre Drogas y Crimen
+de Naciones Unidas (2016), ¿cuál es la ratio de
+personas entre 16 y 64 años que han consumido
+al menos una droga ilegal en el último año?:
+1. Una de cada 20 de esas personas.
+2. Una de cada 50 de esas personas.
+3. Una de cada 100 de esas personas.
+4. Una de cada 200 de esas personas.
+69. ¿Cuál de las siguientes características es FAL-
+SA para la desrealización?:
+1. Es una experiencia subjetiva que implica
+cambio, extrañeza o irrealidad con respecto al
+entorno y al mundo que rodea a la persona.
+2. La persona tiene la convicción firme delirante
+de que el entorno ha cambiado de un modo
+sutil, pero inquietante y difícil de definir, y
+está convencida de que está involucrada per-
+sonalmente en tales cambios.
+3. Puede aparecer en los mismos trastornos
+mentales que la despersonalización, así como
+en las mismas situaciones dentro de la pobla-
+ción general.
+4. Se considera una reacción disociativa en la
+que la persona experimenta una pérdida sub-
+jetiva de la experiencia de la realidad.
+- 8
+70. Según el DSM-5, ¿qué nombre recibe el descrip-
+tor general de síntomas negativos característi-
+cos de la esquizofrenia que hace referencia a la
+pobreza del habla y pobreza del contenido del
+habla?:
+1. Pararrespuesta.
+2. Alogia.
+3. Ilogicidad.
+4. Mutismo selectivo.
+71. ¿Cómo se denomina el sentimiento exagerado
+y/o desproporcionado de bienestar, en el que la
+persona se siente llena de energía, alegre y op-
+timista, que puede ocurrir en el transcurso de
+un episodio maníaco o hipomaníaco?:
+1. Paratimia.
+2. Elación.
+3. Labilidad.
+4. Hiperarousal.
+72. De acuerdo con el modelo etiológico multifacto-
+rial de Vanderlinden y Vandereycken (1997)
+formulado para explicar la relación entre expe-
+riencias traumáticas y síntomas disociativos,
+¿qué factor favorece la ocurrencia de síntomas
+disociativos?:
+1. Una mayor edad de la víctima.
+2. Una estrecha relación entre atacante y vícti-
+ma.
+3. Una autoimagen negativa.
+4. Un nivel intelectual bajo.
+73. Señale la respuesta FALSA, en cuanto a las
+variables, que desde una perspectiva transdiag-
+nóstica, se han postulado como comunes en la
+predicción y el mantenimiento de la somatiza-
+ción y de la hipocondría (trastorno por sínto-
+mas somáticos y trastorno de ansiedad por la
+enfermedad en el DSM-5):
+1. Los somatizadores e hipocondríacos suelen
+hacer con mayor probabilidad una atribución
+psicológica de los síntomas que las personas
+aquejadas de otros problemas psicológicos.
+2. Se ha observado que sobrevalorar la impor-
+tancia de los pensamientos relacionados con
+la salud y las enfermedades juega un papel
+importante en estos trastornos.
+3. En los casos más extremos de estos proble-
+mas, se habla de fusión entre pensamiento y
+acción de tipo probabilidad.
+4. La amplificación somatosensorial se ha plan-
+teado como una dimensión presente en estos
+trastornos.
+8 -
+74. ¿Cuál de los siguientes factores cognitivos NO
+corresponde a los propuestos por Salkovskis y
+Warwick (1986, 2001) para explicar la hipocon-
+dría?:
+1. Las creencias disfuncionales sobre el pensa-
+miento repetitivo de enfermedad.
+2. Percibir como terribles las consecuencias de
+sufrir una enfermedad (p.ej., perder el rol de
+madre o el trabajo).
+3. El grado en que la persona se considera capaz
+de interferir en el curso de la enfermedad.
+4. La valoración de la posibilidad de contar con
+factores externos que puedan intervenir en el
+caso de necesitar ayuda (p.ej., acceso a los
+servicios de salud).
+75. ¿Cuál de los siguientes módulos de tratamiento
+NO corresponde a la terapia cognitivo-
+conductual afectiva para la somatización de
+Woolfolk y Allen (2006)?:
+1. Estimulación/regulación cognitivo emocional.
+2. Entrenamiento en habilidades interpersonales
+y disminuir el rol de enfermo.
+3. Exposición a situaciones temidas y a pensa-
+mientos e imágenes sobre la enfermedad.
+4. Entrenamiento en habilidades conductuales.
+76. En cuanto al diagnóstico diferencial para el
+trastorno de síntomas neurológicos funcionales
+(TSNF) en el DSM-5, señale la respuesta correc-
+ta:
+1. El TSNF no puede coexistir con una enfer-
+medad neurológica.
+2. Si se dan criterios para el trastorno de sínto-
+mas somáticos y para el trastorno de TSNF,
+deben realizarse ambos diagnósticos.
+3. Respecto al trastorno facticio y la simulación,
+el diagnóstico de TSNF requiere que se de-
+muestre que los síntomas no son fingidos.
+4. Si un paciente presenta síntomas primarios de
+depresión, como tristeza y anhedonia, con
+quejas de pesadez general de sus miembros,
+se debe hacer el diagnóstico de TSNF.
+77. Una persona que presenta síntomas somáticos
+leves, con un grado elevado de ansiedad asocia-
+do y comportamientos excesivos relacionados
+con la salud, con la certeza absoluta desde hace
+más de 6 meses de que padece una enfermedad
+grave, con una gran fijación y persistencia a
+pesar de las evidencias en contra, y con una
+disminución de la capacidad para reconocer
+que la creencia es consecuencia de un trastorno
+mental, padece con más probabilidad:
+1. Trastorno de conversión.
+2. Trastorno por síntomas somáticos.
+3. Trastorno delirante de tipo somático.
+4. Trastorno de ansiedad por la enfermedad.
+- 9
+78. Según el DSM-5, que un niño tenga una com-
+prensión muy limitada de la comunicación sim-
+bólica en el habla y la gestualidad y dependa de
+otros para todos los aspectos del cuidado físico
+diario, la salud y la seguridad, es característico
+de una discapacidad intelectual de gravedad:
+1. Leve.
+2. Moderado.
+3. Grave.
+4. Profundo.
+79. Señalar la asociación correcta entre sistema
+modulador difuso, origen en el tronco encefálico
+y función en la que se halla implicado:
+1. Noradrenérgico – Locus coeruleus – control
+conducta emocional.
+2. Serotoninérgico – complejo pontomesencefá-
+lico- control del estado de ánimo.
+3. Dopaminérgico – área tegmental ventral –
+sistema de recompensa y conductas adaptati-
+vas.
+4. Colinérgico – núcleos del rafe – participación
+en el aprendizaje y la formación de recuerdos.
+80. ¿En cuál de estas áreas corticales una lesión
+produce prosopagnosia?:
+1. Giro lingual.
+2. Giro frontal inferior.
+3. Giro fusiforme.
+4. Giro postcentral.
+81. Los cuerpos celulares del circuito dopaminérgi-
+co mesolímbico tienen su origen en:
+1. El núcleo arqueado.
+2. El núcleo paraventricular.
+3. El área tegmental ventral.
+4. Los núcleos del rafe.
+82. Supongamos que la frecuencia dominante en un
+electroencefalograma es en un determinado
+momento 30Hz. ¿En cuál de estas situaciones es
+más probable que se encuentre la persona a
+quien se lo estamos registrando?:
+1. Realizando este examen.
+2. Relajada y con los ojos cerrados, aunque des-
+pierta.
+3. En la fase 2 del sueño.
+4. En la fase 4 del sueño.
+83. ¿Cuál de estas estructuras cerebrales se ha
+asociado en mayor medida con la familiaridad
+mnésica?:
+1. Cuerpos mamilares.
+2. Núcleo anterior del tálamo.
+3. Corteza perirrinal.
+4. Cuerno de Amón (campos CA1, CA2, CA3).
+9 -
+84. ¿Con cuál de los siguientes procesos lingüísticos
+se asocia en mayor medida el componente N400
+de los potenciales evocados cerebrales?:
+1. Procesamiento semántico.
+2. Procesamiento sintáctico.
+3. Procesamiento prosódico.
+4. Procesamiento perceptivo (detección del sím-
+bolo lingüístico).
+85. Señale la respuesta correcta en relación a los
+mecanismos neurobiológicos del sueño:
+1. Las neuronas noradrenérgicas y serotoninér-
+gicas con origen en el tronco encefálico son
+las responsables del apagado del sueño REM.
+2. El neurotransmisor melatonina se libera sólo
+en condiciones de oscuridad y ayuda a iniciar
+y mantener el sueño.
+3. La adenosina es un factor promotor del sueño
+mediante su efecto activador sobre los siste-
+mas moduladores difusos del tronco.
+4. Durante el sueño se produce una alta expre-
+sión de genes inmediatos tempranos y mito-
+condriales en consonancia con los requeri-
+mientos metabólicos.
+86. Señale cuál de las siguientes opciones es correc-
+ta con relación al control cerebral del movi-
+miento:
+1. La hipercinesia presente en el balismo se pro-
+duce por una disfunción en el área motora su-
+plementaria.
+2. Los fascículos vestibuloespinales potencian
+los reflejos antigravitatorios de la médula es-
+pinal.
+3. Una lesión en la parte superior del sistema
+motor genera de inmediato hipertonía, arre-
+flexia y espasticidad.
+4. El fascículo tectoespinal genera la respuesta
+orientada que dirige el movimiento de la ca-
+beza y de los ojos a un estímulo.
+87. Respecto del miedo y la agresividad, ¿cuál de
+las siguientes afirmaciones es correcta?:
+1. Un déficit de receptores serotoninérgicos del
+tipo 5HT se asocia con una conducta más
+1A
+ansiosa y menor actitud exploradora.
+2. El circuito que proyecta desde el hipotálamo
+lateral a la amígdala controla la agresividad
+afectiva (ataque por amenaza).
+3. En el circuito del miedo aprendido la sustan-
+cia gris periacueductal del tronco encefálico
+es la responsable de la respuesta autónoma.
+4. La actividad cerebral de la amígdala se modi-
+fica con distinta intensidad en respuesta a la
+visión de expresiones faciales temerosas, neu-
+tras y de felicidad.
+- 1
+88. Señale cuál de las siguientes afirmaciones sobre
+la relación entre distintas áreas cerebrales y
+distintos aspectos de la cognición social es co-
+rrecta:
+1. En la capacidad de “leer” la mente de los
+demás participan la corteza prefrontal medial
+y la unión temporoparietal.
+2. Las principales áreas cerebrales implicadas en
+la empatía son la corteza cingulada anterior y
+la prefrontal.
+3. Las áreas cerebrales principalmente respon-
+sables de la primera impresión son el área de
+Broca y la amígdala.
+4. Las neuronas espejo se localizan en la corteza
+temporal superior y su actividad muestra poca
+capacidad de aprendizaje.
+89. ¿Qué dos tipos de sexismo contempla la teoría
+del sexismo ambivalente?:
+1. Homófobo y heterófobo.
+2. Hostil y benevolente.
+3. Manifiesto e implícito.
+4. Aversivo y sutil.
+90. ¿Cuáles son los dos componentes fundamentales
+del modelo de racismo simbólico o moderno?:
+1. Afecto negativo y apoyo a los valores de la
+ética protestante.
+2. Estereotipos negativos y discriminación pasi-
+va.
+3. Prejuicio implícito y socialización positiva.
+4. Activación automática y procesamiento cons-
+ciente.
+91. Según el modelo de covariación de Kelley,
+cuando una conducta muestra consenso alto,
+distintividad alta y consistencia alta, su causa se
+atribuye a:
+1. El estímulo.
+2. La personalidad del sujeto.
+3. La situación/circunstancia.
+4. El estado emocional del sujeto.
+92. ¿Cuál de las siguientes afirmaciones sobre el
+modelo MODE (motivación y oportunidad co-
+mo determinantes de la relación actitud-
+conducta) de Fazio (1990) es correcta?:
+1. Integra los conceptos de norma subjetiva y
+objetiva.
+2. Es un modelo de enfoque expectativa-valor.
+3. Es un modelo trifactorial.
+4. Integra los conceptos de procesamiento es-
+pontáneo y elaborado.
+10 -
+93. En el modelo de socialización grupal propuesto
+por Levine y Moreland, ¿qué dos procesos están
+involucrados en la denominada fase de investi-
+gación?:
+1. Acomodación y asimilación.
+2. Reclutamiento y reconocimiento.
+3. Tradición y remembranza.
+4. Exploración y verificación.
+94. ¿Cuál de las siguientes opciones recoge una de
+las dimensiones del Cuestionario de Ambiente
+Grupal elaborado por Carron y colaborado-
+res?:
+1. Similitud percibida intragrupal.
+2. Categorización grupal compartida.
+3. Relaciones comunes en el grupo.
+4. Atracción individual hacia la tarea del grupo.
+95. ¿Cuál de los siguientes procesos fue evidenciado
+mediante el paradigma experimental denomi-
+nado “azul-verde” aplicado por Moscovici y
+colaboradores?:
+1. Conversión.
+2. Metacontraste.
+3. Reactancia.
+4. Inferencia correspondiente.
+96. Las actividades o hábitos de vida que reducen el
+riesgo de morbilidad y muerte prematura, en
+terminología de Matarazzo (1984), se denomi-
+nan:
+1. Inmunógenos conductuales.
+2. Patógenos conductuales.
+3. Condiciones de vida.
+4. Prevención terciaria.
+97. Las tres creencias básicas de la teoría de la
+acción planeada de Ajzen (1988) son el control
+conductual percibido, la norma subjetiva y:
+1. La actitud hacia la conducta específica.
+2. El apoyo social.
+3. El sentido de coherencia.
+4. La discriminación del riesgo.
+98. Además de McCrae y Costa, de los siguientes
+autores ¿quiénes proponen modelos de persona-
+lidad de 5 factores?:
+1. Tupes y Christal.
+2. Cattell.
+3. Eysenck.
+4. Ashton.
+- 1
+99. El modelo de estructura del intelecto propuesto
+inicialmente por Guilford postula existencia de:
+1. Un total de 15 (5+4+6) aptitudes de inteligen-
+cia.
+2. Un total de 120 (5x4x6) aptitudes de inteli-
+gencia.
+3. Tres aptitudes de inteligencia (general, de
+grupo y específica).
+4. Tres aptitudes de inteligencia (analítica, prác-
+tica y creativa).
+100. Desde el modelo atribucional de Weiner, ¿qué
+tres dimensiones se contemplan?:
+1. Distintividad, consistencia y consenso.
+2. Estabilidad, globalidad e internalidad.
+3. Intencionalidad, estabilidad y especificidad.
+4. Locus de causalidad, estabilidad y controlabi-
+lidad.
+101. Desde la teoría componencial de Sternberg, el
+autor destaca los siguientes componentes para
+la adquisición del conocimiento:
+1. Reconocimiento, monitorización y compren-
+sión.
+2. Codificación, inferencia y aplicación.
+3. Codificación selectiva, combinación selectiva
+y comparación selectiva.
+4. Inferencia, selección y decisión selectiva.
+102. Respecto a las teorías implícitas de personali-
+dad, señala la alternativa correcta:
+1. Algunas personas consideran que los atributos
+personales pueden cambiarse, es decir, poseen
+una teoría implícita de entidad.
+2. Las teorías implícitas, como creencias que
+son, no están sujetas a influencias ni pueden
+cambiar.
+3. Algunas personas consideran que los atributos
+personales se poseen en una cantidad fija y no
+pueden cambiarse, es decir, poseen una teoría
+implícita incremental.
+4. Algunas personas consideran que los atributos
+personales se poseen en una cantidad fija y no
+pueden cambiarse, es decir, poseen una teoría
+implícita de entidad.
+103. ¿Qué autores proponen un modelo en el que se
+ensalza la relevancia tanto del sistema cogniti-
+vo-afectivo de la personalidad como de las ca-
+racterísticas psicológicas de la situación a la
+hora de explicar la conducta humana?:
+1. A. Bandura.
+2. W. Mischel e Y. Shoda.
+3. H. Eysenck y M. Eysenck.
+4. J. Gray.
+11 -
+104. ¿Cuál de los siguientes modelos surge con el
+objetivo de identificar las bases biológicas que
+subyacen a la inteligencia?:
+1. Modelo de la integración parieto-occipital de
+la inteligencia.
+2. Modelo de la integración frontal-parietal de la
+inteligencia.
+3. Modelo de la integración temporo-parietal de
+la inteligencia.
+4. Modelo de la integración frontal-temporal de
+la inteligencia.
+105. De entre los siguientes tipos de pruebas, ¿en
+cuáles se evalúa la creatividad mediante las
+puntuaciones en fluidez, flexibilidad y originali-
+dad de las respuestas de los participantes?:
+1. Test de pensamiento divergente.
+2. Test de pensamiento convergente.
+3. Inventarios de juicios de productos.
+4. Inventarios de actitudes e intereses.
+106. ¿Qué dimensiones de personalidad del modelo
+de cinco factores de Costa y McCrae se relacio-
+nan con el factor general de psicopatología o
+factor p?:
+1. Neuroticismo, apertura a la experiencia y
+extraversión.
+2. Neuroticismo, responsabilidad y amabili-
+dad/cordialidad.
+3. Neuroticismo, responsabilidad y apertura a la
+experiencia.
+4. Neuroticismo, extraversión y amabili-
+dad/cordialidad.
+107. ¿Quién fue el introductor del concepto de co-
+ciente intelectual?:
+1. William Stern.
+2. James McKeen Catell.
+3. Alfred Binet.
+4. Louis Terman.
+108. Cuando comparamos modelos clásicos de per-
+sonalidad, como el PEN, con el modelo de los
+cinco grandes, podemos observar:
+1. La correspondencia entre un mayor psicoti-
+cismo y una menor cordialidad y responsabi-
+lidad.
+2. La correspondencia entre un mayor psicoti-
+cismo y una mayor cordialidad y responsabi-
+lidad.
+3. La correspondencia entre un menor psicoti-
+cismo y una menor cordialidad y responsabi-
+lidad.
+4. La correspondencia entre un mayor psicoti-
+cismo y una mayor cordialidad y menor res-
+ponsabilidad.
+- 1
+109. Señale qué dimensión del modelo de los cinco
+grandes recoge mejor la calidad de la interac-
+ción social:
+1. Cordialidad.
+2. Extraversión.
+3. Estabilidad emocional.
+4. Responsabilidad.
+110. Señale cuál de los siguientes instrumentos de
+evaluación de las alucinaciones incluye la eva-
+luación de los patrones de afrontamiento (resis-
+tencia y compromiso):
+1. Launay-Slade Hallucination Scale-revised
+(LSHS-R; Bentall y Slade, 1985; Fonseca-
+Pedrero et al., 2010).
+2. Psychotic Symptom Rating Scale (PSY-
+RATS; Haddock et al., 1999; González et al.,
+2003).
+3. Beliefs About Voice Questionnaire (BAVQ-
+R; Chadwick et al., 2000; Robles García et
+al., 2004).
+4. Voice Power Differential Scale (VPDS;
+Birchwood et al., 2000).
+111. ¿Cuál de las siguientes decisiones NO pertenece
+al muestreo intersesional?:
+1. Período de observación.
+2. Número de sesiones de observación.
+3. Criterios de inicio de sesión.
+4. Intervalos en que se divide la sesión de ob-
+servación.
+112. Entre las fuentes de error en la observación
+procedentes del sistema de observación se in-
+cluye:
+1. Grado de entrenamiento para la observación.
+2. Grado de participación en la observación.
+3. Tipo de registro elegido para la observación.
+4. Expectativas creadas para la observación.
+113. ¿Qué índice se obtiene en todas las escalas de
+inteligencia de Wechsler (WPSSI-IV, WISC-V y
+WAIS-IV)?:
+1. Índice visoespacial.
+2. Índice razonamiento perceptivo.
+3. Índice memoria de trabajo.
+4. Índice razonamiento fluido.
+12 -
+114. ¿Cuál de las siguientes pruebas es una entrevis-
+ta semiestructurada para evaluar el trastorno
+obsesivo compulsivo en la infancia y la adoles-
+cencia?:
+1. Inventario de Obsesiones de Leyton, versión
+para niños (LOI-CV) de Berg y colaborado-
+res.
+2. Escala Yale –Brown de Obsesiones y Com-
+pulsiones para niños (CY-BOCS) de Scahill y
+colaboradores.
+3. Inventario Obsesivo-Compulsivo de
+Maudsley (MOCI) de Hodgson y Rachman.
+4. Inventario Obsesivo-Compulsivo para niños
+(CHOCI) de Shafran y colaboradores.
+115. ¿Qué indicación es apropiada para ajustar la
+entrevista a un escolar de 9 años?:
+1. Utilizar preferentemente preguntas cerradas.
+2. Evitar preguntas que empiecen con “¿por
+qué?”.
+3. Recurrir a juegos no verbales (dibujos, jugue-
+tes, etc.).
+4. Emplear alternativas de respuesta para reducir
+la probabilidad de sugestión.
+116. En el Test de Apercepción Temática para niños
+(CAT), ¿qué aspecto NO se tiene en cuenta para
+el análisis del contenido de las historias?:
+1. Preferencias e identificaciones.
+2. Conflictos significativos.
+3. Figuras vistas como…
+4. Naturaleza de la ansiedad.
+117. A diferencia del MMPI para adultos, en la ver-
+sión para adolescentes:
+1. Se han agregado áreas de contenido como el
+potencial agresivo.
+2. Contiene 11 escalas clínicas, 5 para relaciones
+personales y 5 para el tratamiento.
+3. Incluye escalas suplementarias para evaluar
+problemas de alcohol y drogas, y la inmadu-
+rez.
+4. Se ha reducido a 300 el número de ítems.
+118. Según la edad de aplicación, ¿qué prueba de
+desarrollo general se administra a niños de 10
+años?:
+1. Escala de Desarrollo de Gesell (GDS).
+2. Escala McCarthy de Aptitudes y Psicomotri-
+cidad para niños (MSCA).
+3. Inventario de Desarrollo de Battelle.
+4. Batería Luria-Nebraska para Niños.
+- 1
+119. ¿Cuál de los siguientes cuestionarios para la
+evaluación de la depresión en la infancia cuenta
+con una forma abreviada?:
+1. Escala de Depresión para Niños (CDS) de
+Lang y Tisher.
+2. Cuestionario Educativo Clínico: Ansiedad y
+Depresión (CECAD) de Lozano y Colabora-
+dores.
+3. Inventario de Depresión Infantil (CDI) de
+Kovac.
+4. Escala de Sintomatología Depresiva para
+Maestros de Educación Primaria (ESDM 6-
+12) de Domènech y Polaino.
+120. Dentro de las estrategias narrativas en evalua-
+ción psicológica, el análisis del proyecto vital
+(Mahoney):
+1. Se focaliza directamente en la elaboración de
+un relato sobre la identidad personal.
+2. Consta de tres fases: recomposición de la
+vida, viaje por la vida y revisar la revisión vi-
+tal.
+3. Se trata de una evaluación sin restricciones al
+texto, pero sin criterios hermenéuticos.
+4. Utiliza categorías transitivas e intransitivas de
+afectos para el análisis de la revisión de vida.
+121. En la técnica de observación, ¿qué nombre
+reciben los productos de conducta procedentes
+de ejecuciones del sujeto en el pasado?:
+1. Medidas retrospectivas.
+2. Medidas prospectivas.
+3. Medidas retroactivas.
+4. Medidas no reactivas.
+122. Indique la respuesta correcta con respecto al
+pensamiento-en-voz-alta:
+1. Es una técnica estructurada de autoinforme.
+2. En el registro de eventos, el procedimiento
+más complejo es la categorización de conte-
+nido verbal.
+3. La verbalización ocurre independientemente
+de la conducta informada.
+4. Un procedimiento de recogida de los pensa-
+mientos es el monólogo continuo.
+123. ¿Cómo se denomina a la descripción que hace el
+entrevistador de lo que está ocurriendo en un
+determinado momento en cuanto a la relación
+entre el entrevistador y el entrevistado?:
+1. Inmediatez.
+2. Interpretación.
+3. Encuadre.
+4. Confrontación.
+13 -
+124. Según la Guía de Proceso de Evaluación (GAP)
+(Fernández-Ballesteros y colaboradores, 2003),
+¿en qué subfase el evaluador realiza la tarea de
+preparar la situación de evaluación y da ins-
+trucciones al sujeto?:
+1. Operativización de las hipótesis mediante
+instrumentos y procedimientos de evaluación.
+2. Análisis de las demandas, quejas, metas.
+3. Recogida de información: recopilación de
+información pertinente.
+4. Discusión y toma de decisiones.
+125. ¿Cuál de los siguientes instrumentos está dirigi-
+do a medir la disociación de movimientos entre
+ambas manos?:
+1. Omega.
+2. Rotor de persecución.
+3. Test de punteado.
+4. Tromómetro de barra.
+126. ¿Cuál de las siguientes pruebas corresponde al
+índice de velocidad de procesamiento en el Test
+de Inteligencia de Wechsler para Adultos
+(WAIS-IV)?:
+1. Dígitos.
+2. Búsqueda de símbolos.
+3. Figuras incompletas.
+4. Matrices.
+127. Respecto a las técnicas de registro de informa-
+ción observacionales, ¿qué son las escalas de
+apreciación?:
+1. Son registros en los que el observador va
+realizando descripciones narrativas sobre lo
+observado en la conducta del sujeto.
+2. Se usan para la cuantificación, calificación o
+clasificación de las actividades de un sujeto
+según específicas definiciones conductuales,
+dimensiones o atributos de personalidad pre-
+viamente establecidos.
+3. Son técnicas de observación sin estructura-
+ción previa, que suelen comenzar con una ob-
+servación no sistemática para observar el con-
+tinuo de la conducta de un sujeto.
+4. Son técnicas de observación en las que se
+recoge la información en un breve período de
+tiempo.
+- 1
+128. La teoría triárquica de Sternberg entiende la
+inteligencia en función de tres subteorías: la
+subteoría contextual, experiencial y componen-
+cial. ¿A qué hace referencia la subteoría expe-
+riencial?:
+1. A la adaptación al medio.
+2. A la habilidad para enfrentarse a situaciones
+novedosas.
+3. A las estructuras y mecanismos que rigen el
+funcionamiento inteligente.
+4. A la habilidad para entender el contexto so-
+ciocultural.
+129. Según la clasificación de Cronbach (1992), los
+tests de rendimiento típico, en comparación con
+los de rendimiento máximo, son aquellos que:
+1. Recogen los niveles más altos de rendimiento
+de una persona.
+2. Son técnicas involuntarias en las que la per-
+sona habitualmente no percibe el constructo
+que se está intentado evaluar.
+3. Evalúan constructos como, por ejemplo, la
+personalidad o las actitudes.
+4. Evalúan la cantidad de ítems bien resueltos
+por el sujeto en un tiempo determinado.
+130. Señale la afirmación correcta sobre el Test de
+Aptitudes Mentales Primarias (PMA):
+1. Su edad de aplicación es a partir de los 10
+años. Evalúa aptitudes verbales, espaciales,
+de razonamiento, numéricas y de fluidez ver-
+bal.
+2. Su edad de aplicación es a partir de los 8
+años. Evalúa comprensión verbal, numéricas
+y aptitud perceptiva.
+3. Su edad de aplicación es a partir de los 7
+años. Evalúa razonamiento numérico, verbal
+y abstracto.
+4. Su edad de aplicación es a partir de los 9
+años. Evalúa actitud verbal, razonamiento y
+espacial.
+131. ¿Qué afirmación es INCORRECTA con respec-
+to a las características de las técnicas proyecti-
+vas?:
+1. Se basan en que el sujeto evaluado cuenta con
+una estructura básica y estable de la persona-
+lidad.
+2. Toda respuesta ante el material proyectivo no
+es casual, sino significativa, y será entendida
+como un signo de la personalidad del sujeto.
+3. Cuanto más ambiguas sean las propiedades de
+los estímulos, tanto menos reflejarán la per-
+sonalidad las respuestas de los sujetos.
+4. El análisis de las respuestas de los sujetos ha
+de ser fundamentalmente cualitativo y global.
+14 -
+132. En evaluación psicológica, ¿qué técnicas metó-
+dicas y objetivos de evaluación se ajustan al
+modelo de atributo?:
+1. Estrategias de observación clínica y objetivos
+de clasificación.
+2. Estrategias experimentales y objetivos de
+explicación de relaciones funcionales.
+3. Estrategias correlacionales y objetivos de
+pseudoexplicación.
+4. Estrategias observacionales y objetivos de
+descripción.
+133. Indique qué supuestos pueden formularse a la
+hora de establecer hipótesis en el proceso de
+evaluación psicológica (p. ej., Fernández Balles-
+teros):
+1. Supuestos de cuantificación, supuestos de
+semejanza, supuestos de asociación predictiva
+y supuestos de asociación funcional.
+2. Supuestos de semejanza, supuestos de asocia-
+ción funcional, supuestos epistemológicos y
+supuestos cualitativos.
+3. Supuestos de cuantificación, supuestos de
+axioma, supuestos de asociación predictiva y
+supuestos aleatorios.
+4. Supuestos de asociación predictiva, supuestos
+de semejanza, supuestos de asociación fun-
+cional y supuestos idiográficos.
+134. En el psicograma de Rorschach, ¿qué tipo de
+respuestas se tienen en cuenta para el análisis
+de los afectos?:
+1. Respuestas de Color.
+2. Respuestas de Sombreado.
+3. Respuestas de Claroscuro.
+4. Respuestas de Figuras Humanas.
+135. De las siguientes técnicas estructurales deriva-
+das de la teoría de los constructos personales de
+Kelly, ¿cuál ahonda en los significados más
+profundos del evaluado y en las emociones aso-
+ciadas?:
+1. Escalamiento.
+2. Flujo de conciencia.
+3. Flecha descendente.
+4. Autocaracterización.
+136. ¿Qué representan los elementos en la adminis-
+tración de la técnica de rejilla interpersonal
+aplicada en el campo clínico?:
+1. Las filas en el protocolo de la técnica de reji-
+lla.
+2. Las personas significativas de la vida del eva-
+luado.
+3. Las similitudes y diferencias entre los cons-
+tructos.
+4. El punto de saturación del evaluado.
+- 1
+137. En la evaluación psicofisiológica, ¿cuáles de los
+siguientes indicadores biológicos NO identifican
+a las personas con mayor probabilidad de desa-
+rrollar un trastorno?:
+1. Los marcadores de vulnerabilidad.
+2. Los marcadores genéticos.
+3. Los marcadores endofenotípicos.
+4. Los marcadores episódicos.
+138. ¿Cuál de los siguientes factores cognitivos se ha
+relacionado con la conducta antisocial en niños
+y adolescentes?:
+1. El centro de control interno.
+2. La baja autoeficacia percibida.
+3. La desesperanza.
+4. El autoconcepto positivo.
+139. Según el DSM-5, el trastorno negativista desa-
+fiante:
+1. Describe en una sola categoría el trastorno
+negativista desafiante como un patrón de en-
+fado/irritabilidad, discusiones/actitud desa-
+fiante o vengativa.
+2. Describe dos situaciones para el trastorno
+negativista desafiante en relación con el esta-
+do emocional que lo acompaña.
+3. Describe el trastorno negativista desafiante
+como un patrón persistente de comportamien-
+tos que violan las normas y la reglas acompa-
+ñado de un comportamiento de desafío hacia
+la autoridad.
+4. Describe el trastorno negativista desafiante
+como arrebatos recurrentes en el comporta-
+miento que reflejan una falta de control del
+impulso de agresividad.
+140. ¿Cuál de los siguientes tratamientos psicológi-
+cos va dirigido al trastorno de la personalidad
+límite?:
+1. Diálogo Abierto.
+2. Programa STEPPS.
+3. Terapia interpersonal y del ritmo social.
+4. Terapia familiar funcional.
+15 -
+141. ¿Cuál de las siguientes afirmaciones es cierta en
+relación con la conducta agresiva en niños y
+adolescentes?:
+1. El procedimiento tiempo fuera para eliminar
+comportamientos agresivos no es recomenda-
+ble para niños menores de 10 años.
+2. Los tratamientos conductuales para el trata-
+miento de la conducta agresiva son más efica-
+ces con adolescentes que con niños.
+3. Los niños con problemas de agresividad bus-
+can más indicios que aquellos que no mues-
+tran problemas de agresividad, antes de de-
+terminar las intenciones de sus compañeros
+en situaciones sociales ambiguas.
+4. Un modo de disminuir la probabilidad de
+ocurrencia del comportamiento agresivo en
+niños es reducir la estimulación aversiva de
+su contexto inmediato.
+142. Señale la respuesta correcta con respecto a los
+trastornos de personalidad:
+1. La CIE-11 propone una clasificación catego-
+rial de los trastornos de personalidad.
+2. El DSM-5 incluye los trastornos de persona-
+lidad en el eje II, dentro de su clasificación
+multiaxial.
+3. El DSM-5 incluye una propuesta alternativa
+para la clasificación de los trastornos de per-
+sonalidad en la sección III, donde asume un
+modelo híbrido de los trastornos de persona-
+lidad.
+4. El DSM-5 difiere del DSM-IV al incluir 12
+trastornos de personalidad, organizados en
+tres grupos.
+143. ¿Cuál de las siguientes manifestaciones biológi-
+cas podemos encontrar en la Anorexia Nervio-
+sa?:
+1. Taquicardia.
+2. Hipotrofia parotídea.
+3. Hipercarotinemia.
+4. Hipertensión.
+- 1
+144. El instrumento ADOS-2 para la evaluación del
+autismo es:
+1. Un Cuestionario de cribado para determinar
+posibles casos de niños que presentan señales
+de alerta de un TEA alrededor de los 18 me-
+ses.
+2. Un Cuestionario de Comunicación Social, de
+respuesta si/no cumplimentado por los padres
+y que evalúa principalmente la interacción
+social.
+3. Una entrevista estructurada revisada que eva-
+lúa la comunicación, la interacción social y la
+presencia de esterotipias e intereses restringi-
+dos.
+4. Una escala de observación estandarizada y
+semiestructurada para el diagnóstico de au-
+tismo con varios módulos adaptados a cada
+grupo de edad y nivel de lenguaje.
+145. ¿Qué terapia se emplea para el tratamiento del
+trastorno límite de la personalidad en adoles-
+centes?:
+1. Terapia interpersonal adaptada para niños y
+adolescentes.
+2. Terapia familiar orientada al apego.
+3. Terapia dialéctico-conductual en formato
+grupal.
+4. Terapia de desarrollo de habilidades familia-
+res y psicoeducación.
+146. ¿Cuál de las siguientes afirmaciones es FALSA
+en relación con los tratamientos psicológicos de
+la discapacidad intelectual?:
+1. Las terapias basadas en atención plena son
+una alternativa terapéutica aplicada también a
+las personas con discapacidad intelectual.
+2. La terapia centrada en la compasión es un
+enfoque terapéutico contextualista que se ha
+aplicado en el ámbito de la discapacidad inte-
+lectual para el abordaje de la autocrítica y la
+comparación social negativa.
+3. Al igual que en la población general, la de-
+presión es el principal problema en el que se
+ha investigado la eficacia de la activación
+conductual aplicada a personas con discapa-
+cidad intelectual.
+4. Varios ensayos aleatorios controlados han
+generado evidencias de calidad alta que con-
+firman la efectividad de los modelos de tera-
+pia de tercera generación en el tratamiento de
+la discapacidad intelectual.
+16 -
+147. ¿Cuál de las siguientes afirmaciones es FALSA
+en relación con los modelos de tratamiento psi-
+cológico del trastorno del desarrollo del lengua-
+je?:
+1. Las aproximaciones más centradas en el niño
+(en contraposición a las más centradas en el
+terapeuta) hacen un uso amplio del modelado,
+el moldeamiento y el reforzamiento.
+2. Los tratamientos más centrados en el terapeu-
+ta siguen una estructura básica de enseñanza
+que consiste en la presentación de un modelo
+lingüístico, la petición de su reproducción por
+el niño y el feedback.
+3. Los enfoques más formales y focalizados de
+tratamiento se corresponden con las aproxi-
+maciones más centradas en el terapeuta.
+4. Los enfoques naturales, que se corresponden
+con los centrados en el niño, emplean recur-
+sos comunicativos propios de las interaccio-
+nes ordinarias de un modo más intencional.
+148. ¿Cuál de los siguientes tratamientos está dirigi-
+do al abordaje de los trastornos de conducta en
+niños y adolescentes?:
+1. Terapia basada en el modelo de Worden.
+2. El programa los años increíbles.
+3. Intervención compresiva conductual.
+4. El programa Coping Cat.
+149. Cuando un menor presenta fracaso constante
+para hablar en situaciones sociales específicas
+en las que existe expectativa por hablar, es ca-
+racterístico de:
+1. Trastorno del lenguaje.
+2. Trastorno fonológico.
+3. Mutismo selectivo.
+4. Trastorno de la comunicación social.
+150. Señale cuál de los siguientes componentes NO
+pertenece a la terapia conductual para la esqui-
+zofrenia (Kingdom y Turkington, 2005):
+1. Explicación normalizadora de la psicosis.
+2. Examen de los antecedentes de la crisis psicó-
+tica.
+3. Tratamiento de la ansiedad y depresión co-
+existentes.
+4. Formulación de las conexiones entre A-B-C y
+el desarrollo psicológico evolutivo.
+151. De las siguientes características, ¿cuál NO co-
+rresponde al entrenamiento en escenificaciones
+emotivas para las fobias infantiles?:
+1. Se utiliza en menores de 9 años.
+2. Se caracteriza por suscitar emociones positi-
+vas.
+3. Utiliza sistemas de refuerzo social.
+4. Entrena en relajación muscular progresiva.
+- 1
+152. ¿Cuál de los siguientes fármacos NO está indi-
+cado para el trastorno bipolar?:
+1. Lamotrigina.
+2. Flufenazina.
+3. Oxcarbazepina.
+4. Clordiazepóxido.
+153. ¿Cuál de los siguientes efectos secundarios es
+más frecuente en el tratamiento neuroléptico
+con aripiprazol en la esquizofrenia?:
+1. Galactorrea.
+2. Parkinsonismo.
+3. Hipercolesterolemia.
+4. Discinesia tardía.
+154. El modelo de autorregulación de Kanfer, en el
+que se apoya la terapia de autocontrol de Rhem
+para la depresión, señala déficits específicos en
+3 fases diferentes. Señale cuáles:
+1. La motivación, el tratamiento y la prevención
+de recaídas.
+2. La conductual, cognitiva y experiencial.
+3. La autoobservación, la autoevaluación y el
+autorreforzamiento.
+4. La autocontemplación, la autoidentificación y
+la conciencia de enfermedad.
+155. Señale cuál de las siguientes terapias define
+específicamente que su foco de interés es la
+depresión y, más concretamente, la resolución
+de un problema de la vida del paciente relacio-
+nado con duelo complicado, transición o conflic-
+to de roles, o problemas en las relaciones con los
+demás:
+1. La terapia racional emotiva.
+2. La terapia de aceptación y compromiso.
+3. La terapia cognitiva.
+4. La terapia interpersonal.
+156. En el ámbito de la terapia de conducta y por lo
+que respecta al curso de afrontamiento de la
+depresión (CAD; Lewinsohn y col.), señale la
+opción correcta:
+1. El CAD se suele añadir a los programas de
+actividades agradables y al entrenamiento en
+habilidades sociales, pero se considera que la
+terapia cognitiva es innecesaria y hasta puede
+ser contraproducente.
+2. En el CAD, el papel del terapeuta es poco
+directivo para que los participantes sean los
+conductores del grupo.
+3. El CAD fue diseñado para adultos con depre-
+sión, pero se ha extendido a otras poblaciones
+y condiciones.
+4. El CAD no cuenta con evidencia empírica
+sobre su eficacia.
+17 -
+157. Con respecto a la terapia interpersonal (TIP;
+Weissman, Markowitz y Klerman, 2018), señale
+la respuesta correcta:
+1. Es una terapia que no está determinada tem-
+poralmente (se pueden ir añadiendo sesiones
+hasta conseguir los objetivos terapéuticos).
+2. Ofrece un marco comprensivo completo de la
+depresión, similar a otras terapias como la ac-
+tivación conductual o la terapia cognitiva.
+3. Defiende que la depresión es una enfermedad
+y su aparición obedece a cambios en el en-
+torno interpersonal como consecuencia de
+distintos problemas.
+4. No da importancia al análisis del afecto o la
+emoción elicitados por las circunstancias.
+158. ¿Qué intervención psicológica para la depresión
+tiene como propia la técnica TRAP-TRAC(k)
+(Jacobson et al. 2001) que sirve de guía y moti-
+vación a la persona en tratamiento?:
+1. Activación conductual.
+2. Terapia dialéctico-conductual.
+3. Terapia racional-emotiva.
+4. Terapia interpersonal.
+159. ¿En qué consisten los tres bloques que integran
+el programa de entrenamiento en reconocimien-
+to emocional (Wölwer et al, 2005)?:
+1. El primer bloque está dirigido a identificar
+emociones básicas; el segundo a trabajar el
+procesamiento emocional; el tercero a la iden-
+tificación de expresiones más ambiguas del
+afecto.
+2. El primer bloque está dirigido a la diferencia-
+ción entre estímulos visuales sin componente
+social; el segundo a trabajar la identificación
+de emociones básicas; el tercero a trabajar el
+procesamiento emocional.
+3. El primer bloque está dirigido a la identifica-
+ción de expresiones ambiguas de afecto; el
+segundo a conocer los componentes de la
+cognición social; el tercero a trabajar la teoría
+de la mente.
+4. El primer bloque está dirigido a entrenar habi-
+lidades sociales básicas; el segundo a entrenar
+habilidades sociales complejas; el tercero a
+trabajar el procesamiento emocional.
+- 1
+160. ¿En qué consisten las tres fases que integran el
+programa entrenamiento en cognición social e
+interacción (Penn et al, 2005)?:
+1. La primera aborda los déficits en cognición
+social más habituales en la psicosis; la segun-
+da propone un entrenamiento en procesamien-
+to emocional; la tercera consiste en un entre-
+namiento en teoría de la mente.
+2. La primera propone un entrenamiento en fun-
+ciones neurocognitivas básicas como aten-
+ción, memoria y funciones ejecutivas; la se-
+gunda propone un entrenamiento en procesa-
+miento emocional, teoría de la mente y estilo
+atribucional; la tercera consiste en un entre-
+namiento en metacognición.
+3. La primera aborda las habilidades sociales
+básicas; la segunda trata de un entrenamiento
+en habilidades sociales complejas; la tercera
+va dirigida a la extrapolación de las habilida-
+des aprendidas a la vida diaria.
+4. La primera aborda la comprensión de emo-
+ciones; la segunda se dirige al estilo de cogni-
+ción social; la tercera va dirigida a la consoli-
+dación de habilidades aprendidas y extrapola-
+ción de las mismas a la vida diaria.
+161. ¿Cuál es la diferencia fundamental entre la
+terapia para la mejora cognitiva (CET) (Ho-
+garty y Flesher, 1999) y el programa de terapia
+psicológica integrada para la esquizofrenia
+(IPT) (Roder y cols., 1996)?:
+1. CET solo aborda aspectos relacionados con la
+neurocognición, mientras que IPT trabaja tan-
+to en neurocognición como en cognición so-
+cial.
+2. IPT solo aborda aspectos relacionados con la
+neurocognición, mientras que CET trabaja
+tanto en neurocognición como en cognición
+social.
+3. Aunque ambos abordan tanto déficits en cog-
+nición social como en neurocognición, IPT es
+menos lineal y escalonado que CET.
+4. Aunque ambos abordan tanto déficits en cog-
+nición social como en habilidades cognitivas,
+CET es menos lineal y escalonado que IPT.
+18 -
+162. ¿Qué cuatro habilidades, postuladas por Lysa-
+ker y Dimaggio (2014), suelen abordar los pro-
+gramas destinados a la mejora de la metacogni-
+ción en psicosis?:
+1. Autorreflexividad, comprensión de la mente
+del otro, teoría de la mente y estilo atribucio-
+nal.
+2. Procesamiento emocional, percep-
+ción/conocimiento social, teoría de la mente y
+estilo atribucional.
+3. Autorreflexividad, comprensión de la mente
+del otro, descentramiento y capacidad para in-
+tegrar la información intersubjetiva que per-
+mita resolver los problemas de forma adapta-
+tiva.
+4. Percepción emocional, descentramiento, per-
+cepción/conocimiento social y estilo atribu-
+cional.
+163. ¿Qué tres funciones cognitivas básicas se traba-
+jan mediante la terapia para la mejora cogniti-
+va (CET) (Hogarty y Flesher, 1999)?:
+1. Atención, velocidad de procesamiento y me-
+moria de trabajo.
+2. Atención, memoria y resolución de proble-
+mas.
+3. Memoria, fluidez verbal y aprendizaje verbal.
+4. Memoria, velocidad de procesamiento y pra-
+xias.
+164. Señale cuál de los siguientes trastornos del sue-
+ño es una disomnia:
+1. Alteraciones circadianas.
+2. Bruxismo.
+3. Somniloquios.
+4. Terrores nocturnos.
+165. En el marco de las intervenciones en la esquizo-
+frenia y por lo que respecta al tratamiento foca-
+lizado en la familia (Miklowitz et al., 1988, 1996,
+1997), señale la opción correcta:
+1. Se basa en que el paciente crea estrés en la
+familia.
+2. Se basa en que el paciente está influenciado
+por el estrés en su familia.
+3. Se basa en disminuir las interacciones fami-
+liares.
+4. Es un modelo no estructurado.
+166. En los problemas de erección, ¿qué técnica se
+emplea para evitar el rol de espectador elimi-
+nando la ansiedad de rendimiento?:
+1. Autoestimulación.
+2. Empleo de fantasías sexuales.
+3. Alineación coital.
+4. Técnica del puente.
+- 1
+167. El tratamiento de un trastorno orgásmico fe-
+menino generalizado debe comenzar por:
+1. Masturbación delante del compañero sexual.
+2. Focalización sensorial.
+3. Relaciones coitales.
+4. Masturbación a solas.
+168. ¿En qué consiste la maniobra del puente?:
+1. En simultanear la estimulación manual de los
+genitales con movimientos coitales hasta que
+se produzca la eyaculación intravaginal.
+2. En eyacular fuera de la vagina.
+3. En acariciarse mutuamente ambos miembros
+de la pareja hasta alcanzar el orgasmo simul-
+táneo.
+4. En masturbarse delante de la pareja.
+169. ¿Qué intervenciones en el tratamiento de las
+adicciones se definen por el establecimiento de
+medidas para que el consumo se produzca en
+condiciones de seguridad para la salud de los
+usuarios?:
+1. Comunidades terapéuticas.
+2. Centros de día.
+3. Programas con antagonistas opiáceos.
+4. Programas de reducción de daños.
+170. En el modelo de Marlatt y Gordon (1985), a las
+conductas, racionalizaciones y minimizaciones
+del riesgo que llevan a las personas a situaciones
+de alta probabilidad de consumo se las denomi-
+na:
+1. Matriz adictiva de valoración.
+2. Craving.
+3. Decisiones aparentemente irrelevantes.
+4. Creencias justificativas.
+171. ¿Con qué fin, en algunos programas de trata-
+miento del tabaquismo (p. ej., Becoña, 2007), se
+solicita a los sujetos que inicialmente reduzcan
+la cantidad de nicotina?:
+1. Para reducir la probabilidad de síntomas de
+abstinencia.
+2. Para controlar los estímulos.
+3. Para obtener feedback fisiológico del consu-
+mo.
+4. Para realizar un autorregistro del consumo.
+172. En el tratamiento cognitivo-conductual específi-
+co para la bulimia nerviosa de Fairburn, Mar-
+cus y Wilson (1993), ¿cuándo se recomienda
+introducir la reestructuración cognitiva?:
+1. En la fase primera.
+2. En la fase segunda.
+3. En la fase tercera.
+4. En la fase primera y tercera indistintamente,
+siempre que el paciente presente infrapeso
+severo.
+19 -
+173. En el tratamiento de la anorexia nerviosa en
+adultos, ¿qué recomienda la guía NICE respec-
+to a los programas de tratamiento cognitivo-
+conductual individual como tratamiento de
+elección de primera línea?:
+1. Explicar los riesgos de la desnutrición y el
+bajo peso.
+2. Generalmente consiste en hasta 20 sesiones.
+3. Iniciar con posterioridad a la terapia farmaco-
+lógica.
+4. Aplicar como paso previo antes de abordar la
+rehabilitación nutricional.
+174. ¿En qué creencias se centra la terapia metacog-
+nitiva (Wells, 2009) para el trastorno obsesivo-
+compulsivo?:
+1. En el contenido de las obsesiones y su vincu-
+lación con la historia personal del paciente.
+2. En creencias acerca de los pensamientos y/o
+intrusiones, por ejemplo, en términos de fu-
+sión entre pensamientos, sucesos y acciones.
+3. En las creencias metacognitivas relacionadas
+con la rumiación.
+4. En las creencias positivas que la persona
+mantiene en torno a la preocupación.
+175. Señale la alternativa correcta en relación con la
+aplicación de la exposición con prevención de
+respuesta (EPR) en grupo para el trastorno
+obsesivo-compulsivo (TOC):
+1. La EPR para el TOC no puede realizarse en
+grupo porque se trata de un trastorno hetero-
+géneo.
+2. Aunque es prometedor, en términos de coste-
+eficacia, no hay estudios sobre la eficacia de
+la modalidad grupal de la EPR.
+3. Los estudios de metaanálisis han mostrado
+que no hay diferencias entre el formato de la
+EPR (individual o en grupo) en la eficacia de
+la intervención.
+4. La EPR en grupo es menos eficaz que la apli-
+cación individual y, además, hay más riesgo
+de abandonos.
+- 2
+176. Un paciente con trastorno obsesivo-compulsivo
+realiza la siguiente afirmación sobre sus obse-
+siones y estrategias de control: “cuando me
+asalta la idea de tener relaciones sexuales
+inapropiadas, me digo ‘¡basta!’ e inmediata-
+mente intento pensar en algo agradable”. Elige
+la indicación terapéutica correcta en este caso:
+1. Reforzar la estrategia de control del paciente,
+ya que el entrenamiento le permitirá parar el
+pensamiento negativo.
+2. Indicar al paciente que utilice esta estrategia
+de control con otros pensamientos disfuncio-
+nales para generalizar el aprendizaje.
+3. Indicar al paciente que intente pensar en acti-
+vidades sexuales apropiadas cuando le asalte
+el pensamiento negativo.
+4. Ayudarle a identificar las estrategias de neu-
+tralización que utiliza en respuesta a las obse-
+siones.
+177. De entre las distintas intervenciones psicológi-
+cas para el tratamiento del trastorno de estrés
+postraumático, cuáles tienen nivel de evidencia
+1, según las guías de evidencia clínica:
+1. Búsqueda de seguridad, entrenamiento en
+inoculación del estrés y exposición prolonga-
+da.
+2. Exposición prolongada, debriefing y EMDR.
+3. EMDR, búsqueda de seguridad y exposición
+prolongada.
+4. Exposición prolongada, terapia de procesa-
+miento cognitivo y EMDR.
+178. En la terapia EMDR, la fase denominada des-
+ensibilización consiste en que:
+1. Se chequea si existe alguna sensación negati-
+va somática y si fuera el caso se completa el
+procesamiento.
+2. Se trabaja con la estabilización y acceso a
+experiencias y emociones positivas.
+3. Se pregunta por el recuerdo principal que está
+en la base del malestar actual.
+4. Se provoca estimulación mediante movimien-
+tos oculares, escucha bilateral con un audio
+y/o estimulación táctil en manos, hombros y
+piernas (tapping).
+179. En el contexto del tratamiento del estrés pos-
+traumático, las técnicas de exposición, tanto en
+imaginación como en vivo, suponen que la
+aproximación a los recuerdos traumáticos o a
+las situaciones temidas conduce a (señale la
+INCORRECTA):
+1. El procesamiento emocional de la informa-
+ción afectiva.
+2. La habituación de la ansiedad.
+3. La eliminación de información correctora.
+4. La vivencia de dominio sobre la experiencia
+de que la ansiedad no implica pérdida de con-
+trol.
+20 -
+180. De entre las terapias para personas con tras-
+torno de estrés postraumático y sentimientos de
+culpa asociados, ¿cuál incluye específicamente
+una narrativa escrita del trauma?:
+1. La terapia centrada en el presente.
+2. La terapia del procesamiento cognitivo.
+3. El entrenamiento en inoculación del estrés.
+4. La terapia EMDR.
+181. Señale la afirmación correcta sobre la técnica
+implosiva desarrollada por Stampfl y Levis
+(1967) para el tratamiento de los trastornos de
+ansiedad:
+1. Se debe eliminar siempre la contingencia
+entre la respuesta y el estímulo condicionado.
+2. Los estímulos aversivos no están asociados a
+contenidos dinámicos.
+3. Uno de los objetivos de esta técnica es impe-
+dir cualquier respuesta de escape.
+4. Esta técnica se suele aplicar tanto en imagina-
+ción como en vivo.
+182. Según el modelo de habituación dual enunciado
+por Watts (1979) para la comprensión del man-
+tenimiento de las respuestas de ansiedad, señale
+la correcta:
+1. La ausencia de respuesta de escape se debe a
+la existencia de una respuesta que competía
+con ella.
+2. En la reducción de las respuestas de ansiedad
+intervienen simultáneamente dos procesos
+distintos, de sensibilización y de habituación.
+3. En la reducción de las respuestas de ansiedad
+intervienen dos procesos distintos que se van
+alternando sin darse simultáneamente, de sen-
+sibilización y de habituación.
+4. Si la frecuencia de la respuesta de evita-
+ción/escape se mantiene en 0, el resto de las
+respuestas de ansiedad nunca se extinguen.
+183. Respecto a las diferentes modalidades que se
+pueden utilizar al aplicar técnicas de exposi-
+ción, señale las que obtienen una mayor efica-
+cia:
+1. Exposición con presencia del terapeuta y mo-
+dalidad en imaginación.
+2. Autoexposición y modalidad de exposición en
+vivo.
+3. Psicofármacos antidepresivos y modalidad de
+exposición mediante realidad virtual.
+4. Exposición con presencia del terapeuta y uso
+de psicofármacos ansiolíticos.
+- 2
+184. Indique cuál de los siguientes procedimientos
+clínicos introdujo en primer lugar el mindful-
+ness como parte de un tratamiento multicom-
+ponente:
+1. Terapia de conducta dialéctica de Marsha
+Linehan.
+2. Terapia cognitiva basada en mindfulness de la
+depresión.
+3. Terapia de aceptación y compromiso.
+4. Desensibilización sistemática.
+185. ¿Cuál de los siguientes enunciados define la
+creencia disfuncional de sobrestimar la impor-
+tancia del pensamiento, en el caso del trastorno
+obsesivo-compulsivo?:
+1. Otorgar un significado personal relevante y
+negativo a la ocurrencia de las obsesiones o
+de sus contenidos.
+2. Sobrevalorar la importancia de ejercer un
+control completo sobre las obsesiones.
+3. Creer que controlar las obsesiones es posible
+y deseable.
+4. Pensar que uno tiene un poder decisivo para
+provocar o prevenir acontecimientos negati-
+vos.
+186. Con respecto a la adaptación de la terapia a las
+características de la persona, ¿cuál de las si-
+guientes afirmaciones es correcta?:
+1. Las personas con estilo de afrontamiento in-
+ternalizante obtienen mejores resultados con
+tratamientos focalizados en la reducción de
+síntomas.
+2. Las personas con alta reactancia obtienen
+mejores resultados con tratamientos en los
+que el enfoque del terapeuta es menos directi-
+vo.
+3. Las personas con estilo de afrontamiento ex-
+ternalizante obtienen mejores resultados con
+tratamientos dirigidos a fomentar el insight y
+la autoconciencia.
+4. Las personas con baja reactancia obtienen
+mejores resultados con tratamientos en los
+que el enfoque del terapeuta se basa en inter-
+venciones paradójicas.
+187. El trazado de límites y el trabajo con la jerar-
+quía familiar pertenecen a la escuela:
+1. Estructural de Minuchin.
+2. Estratégica de Haley.
+3. Intergeneracional de Bowen.
+4. Experiencial de Satir.
+21 -
+188. ¿Cuáles son las técnicas de cambio que se utili-
+zan en la terapia psicoanalítica?:
+1. Análisis de la transferencia y contratransfe-
+rencia e interpretación.
+2. Interpretación, confrontación y clarificación.
+3. Análisis de las resistencias y clarificación.
+4. Asociación libre, atención flotante y confron-
+tación.
+189. El programa de tratamiento de Clare Philips
+(1987/1991):
+1. Se utiliza en pacientes con dolor crónico.
+2. Se aplica a pacientes con trastorno bipolar.
+3. Se utiliza en pacientes con ansiedad social.
+4. Se aplica en régimen ambulatorio en pacien-
+tes con esquizofrenia.
+190. ¿Cuál de los siguientes factores de la relación
+terapéutica ha demostrado encontrarse dentro
+de la categoría de mayor nivel de eficacia?:
+1. El uso de autorrevelaciones.
+2. La promoción de la credibilidad del trata-
+miento.
+3. El manejo de la contratransferencia.
+4. La obtención y uso de feedback.
+191. ¿Cuál es la variable que mejor predice el resul-
+tado de una terapia psicológica (p. ej., Norcross
+y Lambert, 2019)?:
+1. Las características del paciente.
+2. Las técnicas específicas empleadas.
+3. El modelo teórico del psicólogo.
+4. Los factores comunes.
+192. ¿Cuál de las siguientes afirmaciones, relativas a
+la investigación en psicoterapia sobre la alianza
+terapéutica, es FALSA?:
+1. La solidez de la alianza predice los resultados
+de la psicoterapia.
+2. La relación entre alianza y resultados se pro-
+duce en cualquier tipo de terapia estudiada.
+3. La percepción de la calidad de la alianza por
+el terapeuta predice mejor el éxito o el fracaso
+de la terapia que la percepción del paciente.
+4. La reparación de rupturas en la alianza favo-
+rece la relación terapéutica.
+193. ¿Cuál de las siguientes técnicas es característica
+de la terapia centrada en soluciones (Shazor y
+colaboradores)?:
+1. Desesperanza creativa.
+2. Tarea del tigre.
+3. Técnica de la rejilla.
+4. Búsqueda de excepciones.
+- 2
+194. En el protocolo unificado para el tratamiento
+transdiagnóstico de los trastornos emocionales
+para adultos (Barlow y colaboradores), ¿qué
+variables se deben evaluar al realizar los ejerci-
+cios de exposición a las sensaciones físicas?:
+1. Nivel de ansiedad y evitación.
+2. Grado de dificultad y aversión.
+3. Grado de malestar y similitud.
+4. Nivel de dominio y agrado.
+195. En la terapia dialéctica-conductual las habili-
+dades de tolerancia al malestar se dividen en
+habilidades de supervivencia a las crisis y:
+1. Habilidades de atención plena.
+2. Habilidades de regulación emocional.
+3. Habilidades de eficacia interpersonal.
+4. Habilidades de aceptación de la realidad.
+196. El concepto de difusión de identidad, dentro de
+los trastornos de personalidad, ha sido amplia-
+mente desarrollado por:
+1. Marsha Linehan.
+2. Peter Fonagy.
+3. Otto Kernberg.
+4. Heinz Kohut.
+197. La terapia dialéctica-conductual para el tras-
+torno límite de la personalidad (TLP) se basa en
+las siguientes teorías explicativas del TLP (Li-
+nehan, 1993):
+1. La teoría del marco relacional y la teoría dia-
+léctica.
+2. La teoría del apego y la modificación de con-
+ducta.
+3. La teoría de la mente y la teoría dialéctica.
+4. La teoría dialéctica y la teoría biosocial.
+198. Según la terapia basada en la mentalización
+(Fonagy y cols.), señale en qué estado prementa-
+lizador se encontraría un paciente que hiciera la
+siguiente afirmación en consulta: “mi hermana
+ayer se enfadó conmigo, eso es que le iba a venir
+la regla, ya sabes… las hormonas”:
+1. Equivalencia psíquica.
+2. Modo teleológico.
+3. Modo simulado.
+4. Modo pseudoreflexivo.
+199. El modelo específico utilizado por la terapia
+cognitivo analítica para el tratamiento de los
+trastornos de la personalidad se conoce como:
+1. Modelo dialógico del self.
+2. Modelo de estados múltiples del self.
+3. Teoría cognitiva del self.
+4. Modelo del procedimiento secuenciado.
+22 -
+200. Señale qué dimensiones son evaluadas cuando
+se realiza el “perfil mentalizador” de un pacien-
+te con un trastorno de personalidad desde la
+terapia basada en la mentalización (Fonagy y
+Bateman, 2016):
+1. Automática versus controlada y cognitiva
+versus afectiva.
+2. Automática versus controlada; otro versus
+uno mismo y cognitiva versus afectiva.
+3. Automática versus controlada; otro versus
+uno mismo; interna versus externa y cognitiva
+versus afectiva.
+4. Automática versus controlada; otro versus
+uno mismo; interna versus externa; cognitiva
+versus afectiva y social versus individual.
+201. La terapia focalizada en la transferencia define
+la organización borderline de la personalidad
+con los siguientes elementos:
+1. Defensas primitivas, prueba de realidad man-
+tenida y sólida identidad.
+2. Defensas primitivas, fallo en la prueba de
+realidad y difusión de identidad.
+3. Defensas evolucionadas, prueba de realidad
+mantenida y sólida identidad.
+4. Defensas primitivas, prueba de realidad man-
+tenida y difusión de identidad.
+202. ¿Cuál de las siguientes opciones NO recoge un
+componente del constructo “Autoritarismo de
+derechas” propuesto por Altemeyer?:
+1. Convencionalismo.
+2. Agresión autoritaria.
+3. Sumisión autoritaria.
+4. Liderazgo autoritario.
+203. De las siguientes afirmaciones respecto a la
+terapia metacognitiva de Wells, señale la IN-
+CORRECTA:
+1. Es el contenido específico del pensamiento el
+que perpetúa el trastorno mental.
+2. Considera que el distanciamiento del pensa-
+miento no implica aceptación y eliminación
+del juicio.
+3. Amplía el foco de las terapias cognitivas a la
+forma en que los individuos piensan.
+4. Combina técnicas de reestructuración cogni-
+tiva, experimentos conductuales y entrena-
+miento atencional.
+- 2
+204. En la técnica de programación de actividades
+para el tratamiento de la depresión de la terapia
+cognitiva (A. T. Beck), se le pide al paciente que
+registre:
+1. La frecuencia de episodios de tristeza.
+2. El grado de dominio y agrado.
+3. La duración de los episodios de tristeza.
+4. El grado de creencia en los esquemas depre-
+sógenos.
+205. ¿Qué afirmación es correcta en relación con la
+afectación del sistema atencional?:
+1. El síndrome de heminegligencia por descone-
+xión parietofrontal conserva la capacidad de
+atención sostenida (alerta tónica).
+2. Las dificultades en atención ejecutiva en ni-
+ños con autismo se han relacionado con el ex-
+cesivo volumen de la región dorsolateral fron-
+tal.
+3. Las personas con trastorno de hiperactividad
+con déficit de atención no muestran afecta-
+ción en la actividad de la corteza cingulada
+anterior.
+4. La lesión bilateral de los lóbulos parietales
+(síndrome de Balint) se caracteriza por ataxia
+visual y óptica sin que se afecte la orientación
+atencional.
+206. En la fobia a la sangre, inyecciones o daño:
+1. Se aconseja la relajación ya que facilita la
+disminución de la presión sanguínea.
+2. La mera exposición con prevención de res-
+puesta es la mejor intervención.
+3. La tensión aplicada es la intervención más
+adecuada ya que se enseña a relajar los gran-
+des grupos musculares.
+4. La técnica de tensión aplicada de Öst y Ster-
+ner se utiliza para controlar las respuestas de
+desmayo.
+207. ¿Qué tratamiento psicológico que se utiliza en el
+trastorno bipolar se centra en regular sus ruti-
+nas diarias?:
+1. Terapia de aceptación y compromiso.
+2. Terapia centrada en la compasión.
+3. Terapia interpersonal y del ritmo social.
+4. Terapia sistémica.
+208. ¿Qué afirmación es correcta con respecto a las
+fobias específicas?:
+1. Suelen ser fenómenos transitorios.
+2. La edad de inicio más frecuente es en la ado-
+lescencia entre los 12-16 años.
+3. La edad de inicio más frecuente es en la in-
+fancia, entre los 7-11 años.
+4. Las fobias clínicamente relevantes suelen
+iniciarse en la primera edad adulta (18-25
+años).
+23 -
+209. ¿Qué respuesta es correcta con relación al
+aprendizaje y la memoria?:
+1. El lóbulo temporal medial y el hipocampo son
+las estructuras esenciales en el mantenimiento
+de contenidos en memoria a corto plazo.
+2. Las regiones visuales primarias y la corteza
+parietal inferior son fundamentales para crear
+realidades que no han sido percibidas (falsos
+recuerdos).
+3. El marcador molecular de la reconsolidación
+de la memoria es la disminución de la fosfori-
+lación de los receptores de glutamato GluR1.
+4. La conversión de memoria a corto plazo en
+memoria a largo plazo es un proceso de sínte-
+sis proteica sin cambios morfológicos.
+210. ¿Con qué proceso están relacionados los meca-
+nismos explicativos de la reducción del miedo
+durante la exposición desde un punto de vista
+psicofisiológico?:
+1. Con la habituación.
+2. Con la extinción.
+3. Con la sensibilización.
+4. Con la respuesta de orientación.
+- 24 -
+- 25 -
+- 26 -
