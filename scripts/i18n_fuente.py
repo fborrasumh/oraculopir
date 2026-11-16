@@ -8,7 +8,7 @@ T = [
  # ── portada y HTML ──
  ('title', cfg['i18n']['en']['title'], cfg['i18n']['pt']['title']),
  ('hero.eyebrow', cfg['i18n']['en']['eyebrow'], cfg['i18n']['pt']['eyebrow']),
- ('hero.h1', 'What 18 PIR exams, from 2009 to 2026, say <em>about your 2027 exam</em>', 'O que 18 exames PIR, de 2009 a 2026, dizem <em>sobre o seu exame de 2027</em>'),
+ ('hero.h1', 'What 15 PIR exams, from 2009 to 2026, say <em>about your 2027 exam</em>', 'O que 15 exames PIR, de 2009 a 2026, dizem <em>sobre o seu exame de 2027</em>'),
  ('hero.lede', cfg['i18n']['en']['lede'], cfg['i18n']['pt']['lede']),
  ('s.empezar', 'See the forecast', 'Ver a previsão'), ('s.ejemplo', "Today's challenge", 'Desafio de hoje'),
  ('s.idea', 'Based on OráculoMIR, adapted to the PIR exam.', 'Baseada no OráculoMIR, adaptada ao exame PIR.'),

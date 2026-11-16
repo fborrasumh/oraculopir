@@ -3,7 +3,7 @@ const I18N = {
   en: {
 "title": "OráculoPIR · Which subjects will come up in the PIR 2027",
 "hero.eyebrow": "PIR 2027 · Official exams of the Spanish Ministry of Health · Miguel Hernández University of Elche",
-"hero.h1": "What 18 PIR exams, from 2009 to 2026, say <em>about your 2027 exam</em>",
+"hero.h1": "What 15 PIR exams, from 2009 to 2026, say <em>about your 2027 exam</em>",
 "hero.lede": "OráculoPIR counts how many questions each subject has had in the official PIR exams, estimates how many will come up on 23 January 2027 and tells you how far to trust that estimate. Practise for free with official questions and the answer from the final answer key.",
 "s.empezar": "See the forecast",
 "s.ejemplo": "Today's challenge",
@@ -401,7 +401,7 @@ const I18N = {
   pt: {
 "title": "OráculoPIR · Que disciplinas vão sair no PIR 2027",
 "hero.eyebrow": "PIR 2027 · Exames oficiais do Ministério da Saúde de Espanha · Universidade Miguel Hernández de Elche",
-"hero.h1": "O que 18 exames PIR, de 2009 a 2026, dizem <em>sobre o seu exame de 2027</em>",
+"hero.h1": "O que 15 exames PIR, de 2009 a 2026, dizem <em>sobre o seu exame de 2027</em>",
 "hero.lede": "O OráculoPIR conta quantas perguntas cada disciplina teve nos exames PIR oficiais, estima quantas vão sair a 23 de janeiro de 2027 e diz-lhe até que ponto confiar nessa estimativa. Pratique grátis com perguntas oficiais e a resposta da grelha definitiva.",
 "s.empezar": "Ver a previsão",
 "s.ejemplo": "Desafio de hoje",
