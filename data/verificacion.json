@@ -1,0 +1,42 @@
+{
+ "_nota": "Anuladas publicadas (versión 0) para cotejar las plantillas.",
+ "2019": {
+  "anuladas": [
+   14,
+   18,
+   38,
+   62,
+   127,
+   144,
+   168
+  ],
+  "fuente": "consalud.es y pir.es (CeDe), febrero de 2019"
+ },
+ "2020": {
+  "anuladas": [
+   35,
+   69,
+   114,
+   134,
+   185
+  ],
+  "fuente": "consalud.es, febrero de 2020"
+ },
+ "2021": {
+  "anuladas": [
+   39,
+   54,
+   56,
+   61,
+   77,
+   82,
+   86,
+   113,
+   142,
+   166,
+   181,
+   182
+  ],
+  "fuente": "pir.es (CeDe), abril de 2021"
+ }
+}

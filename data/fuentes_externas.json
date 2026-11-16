@@ -1,0 +1,124 @@
+{
+ "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del PIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN. Fuentes: Wiki Persever (wikipersever.es/pir/convocatorias, etiquetado por convocatoria), examenespsicologia.com (por año de examen) y consalud.es (plantillas 2019-2021). Para cada año se prueban los ficheros vecinos; el código se queda con el que diga en su portada que es de ese año («PRUEBAS SELECTIVAS» + 1), de Psicología y versión 0, con las preguntas que anuncia.",
+ "2009": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/148_Examen-PIR-2008.pdf",
+   "https://wikipersever.es/public/upload/8/150_Examen-PIR-2009.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/149_HOJA-DE-RESPUESTAS-2008.pdf",
+   "https://wikipersever.es/public/upload/8/151_HOJA-DE-RESPUESTAS-2009.pdf"
+  ]
+ },
+ "2010": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/150_Examen-PIR-2009.pdf",
+   "https://wikipersever.es/public/upload/8/152_Examen-PIR-2010.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/151_HOJA-DE-RESPUESTAS-2009.pdf",
+   "https://wikipersever.es/public/upload/8/153_HOJA-DE-RESPUESTAS-2010.pdf"
+  ]
+ },
+ "2011": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/152_Examen-PIR-2010.pdf",
+   "https://wikipersever.es/public/upload/8/154_Examen-PIR-2011.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/153_HOJA-DE-RESPUESTAS-2010.pdf",
+   "https://wikipersever.es/public/upload/8/155_HOJA-DE-RESPUESTAS-2011.pdf"
+  ]
+ },
+ "2012": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/154_Examen-PIR-2011.pdf",
+   "https://wikipersever.es/public/upload/8/156_Examen-PIR-2012.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/155_HOJA-DE-RESPUESTAS-2011.pdf",
+   "https://wikipersever.es/public/upload/8/157_HOJA-DE-RESPUESTAS-2012.pdf"
+  ]
+ },
+ "2013": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/156_Examen-PIR-2012.pdf",
+   "https://wikipersever.es/public/upload/8/158_Examen-PIR-2013.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/157_HOJA-DE-RESPUESTAS-2012.pdf",
+   "https://wikipersever.es/public/upload/8/159_HOJA-DE-RESPUESTAS-2013.pdf"
+  ]
+ },
+ "2014": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/158_Examen-PIR-2013.pdf",
+   "https://wikipersever.es/public/upload/8/160_Examen-PIR-2014.pdf"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/8/159_HOJA-DE-RESPUESTAS-2013.pdf",
+   "https://wikipersever.es/public/upload/9/161_HOJA-DE-RESPUESTAS-2014.pdf"
+  ]
+ },
+ "2015": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/8/160_Examen-PIR-2014.pdf",
+   "https://wikipersever.es/public/upload/9/162_Examen-PIR-2015.pdf",
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2015/"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/9/161_HOJA-DE-RESPUESTAS-2014.pdf",
+   "https://wikipersever.es/public/upload/9/163_HOJA-DE-RESPUESTAS-2015.pdf"
+  ]
+ },
+ "2016": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/9/162_Examen-PIR-2015.pdf",
+   "https://wikipersever.es/public/upload/9/164_Examen-PIR-2016.pdf",
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2016/"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/9/163_HOJA-DE-RESPUESTAS-2015.pdf",
+   "https://wikipersever.es/public/upload/9/165_HOJA-DE-RESPUESTAS-2016.pdf"
+  ]
+ },
+ "2017": {
+  "cuaderno": [
+   "https://wikipersever.es/public/upload/9/164_Examen-PIR-2016.pdf",
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2017/"
+  ],
+  "plantilla": [
+   "https://wikipersever.es/public/upload/9/165_HOJA-DE-RESPUESTAS-2016.pdf"
+  ]
+ },
+ "2018": {
+  "cuaderno": [
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2018/"
+  ],
+  "plantilla": []
+ },
+ "2019": {
+  "cuaderno": [
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2019/"
+  ],
+  "plantilla": [
+   "https://www.consalud.es/uploads/s1/88/38/17/respuestas-definitiva-pir-2019-version-0.pdf"
+  ]
+ },
+ "2020": {
+  "cuaderno": [
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2020/"
+  ],
+  "plantilla": [
+   "https://www.consalud.es/uploads/s1/12/36/52/2/pir-2020-respuestas-definitivas-version-0.pdf"
+  ]
+ },
+ "2021": {
+  "cuaderno": [
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2021/"
+  ],
+  "plantilla": [
+   "https://www.consalud.es/uploads/s1/15/67/51/0/pir-version-0-respuestas-correctas.pdf"
+  ]
+ }
+}

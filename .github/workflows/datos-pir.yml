@@ -1,0 +1,82 @@
+# Trae los exámenes PIR oficiales al repositorio y regenera data/pir.json.
+# Lánzalo desde la pestaña «Actions» → «Datos PIR» → «Run workflow».
+name: Datos PIR
+on:
+  workflow_dispatch:
+    inputs:
+      paso:
+        description: 'todo | externos | cruce | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
+        default: 'todo'
+        required: true
+permissions:
+  contents: write
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Dependencias
+        run: |
+          pip install playwright==1.47.0 pdfplumber==0.11.4 pypdfium2 Pillow
+          python -m playwright install --with-deps chromium
+      - name: Pruebas del extractor
+        run: python tests/test_datos.py
+      - name: Sondear la API del portal (diagnóstico)
+        if: inputs.paso == 'sondear'
+        run: python scripts/pir_fetch.py --sondear
+      - name: Descargar por la API del portal FSE
+        if: inputs.paso == 'todo'
+        run: python scripts/pir_fetch.py --api
+      - name: PIR antiguos desde copias de los PDF oficiales
+        if: inputs.paso == 'todo' || inputs.paso == 'externos'
+        run: python scripts/pir_externos.py
+      - name: Respuestas de los años sin plantilla legible, cruzadas por texto con oposicionesgratis (validadas con las oficiales)
+        if: inputs.paso == 'cruce'
+        run: python scripts/pir_cruce_og.py 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 --validar 2019 2020 2021 2022 2023 2024
+      - name: Cuadernillos de imágenes (portal y copias) → data/img
+        if: inputs.paso == 'imagenes'
+        run: |
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr >/dev/null
+          python scripts/pir_fetch.py --api --imagenes
+          python scripts/pir_externos.py --imagenes
+          python scripts/pir_imagenes.py
+          python scripts/pir_figuras.py
+      - name: Descubrir enlaces en el portal FSE (método antiguo)
+        if: inputs.paso == 'descubrir'
+        run: python scripts/pir_fetch.py --descubrir
+      - name: Descargar cuadernos y plantillas definitivas
+        if: inputs.paso == 'descargar'
+        run: python scripts/pir_fetch.py --descargar
+      - name: Extraer preguntas y clasificar
+        if: inputs.paso != 'descubrir' && inputs.paso != 'sondear' && inputs.paso != 'calibrar'
+        run: python scripts/pir_datos.py || true
+      - name: Clasificar por asignatura con IA (secreto OPENAI_API_KEY, modelo gpt-6-luna)
+        if: inputs.paso != 'descubrir' && inputs.paso != 'sondear' && inputs.paso != 'calibrar'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODELO_IA: gpt-6-luna
+        run: python scripts/pir_clasifica_ia.py && python scripts/pir_datos.py
+      - name: Medir la fiabilidad del panel de agentes con 100 preguntas oficiales (secreto OPENAI_API_KEY)
+        if: inputs.paso == 'calibrar'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MODELO_IA: gpt-6-luna
+        run: python scripts/pir_calibracion.py 100
+      - name: Informe en el resumen de la ejecución
+        if: always()
+        run: cat data/informe.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "Sin informe todavía" >> "$GITHUB_STEP_SUMMARY"
+      - name: Guardar capturas del portal (para ajustar el descubrimiento)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with: {name: portal-debug, path: data/raw/_debug, if-no-files-found: ignore}
+      - name: Subir los datos al repositorio
+        run: |
+          git config user.name "oraculopir-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -m "Datos PIR: exámenes oficiales y extracción ($(date -u +%F))"
+          git push
