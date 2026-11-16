@@ -1,11 +1,11 @@
 # Informe de extracción · OráculoPIR
 
-Generado: 2026-11-16T22:45:01+00:00
+Generado: 2026-11-16T22:47:51+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
 | 2009 (copia) | 260 | 5 | 256 | 4 | — | ✓ |
-| 2010 (copia) | 260 | 5 | 0 | 0 | — | ✓ |
+| 2010 (copia) | 260 | 5 | 236 | 0 | — | ✓ |
 | 2011 (copia) | 260 | 5 | 253 | 7 | — | ✓ |
 | 2012 (copia) | 260 | 5 | 255 | 5 | — | ✓ |
 | 2013 (copia) | 235 | 5 | 226 | 9 | — | ✓ |
