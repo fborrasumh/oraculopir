@@ -35,7 +35,7 @@ jobs:
         run: python scripts/pir_externos.py
       - name: Respuestas de los años sin plantilla legible, cruzadas por texto con oposicionesgratis (validadas con las oficiales)
         if: inputs.paso == 'cruce'
-        run: python scripts/pir_cruce_og.py 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 --validar 2019 2020 2021 2022 2023 2024
+        run: python scripts/pir_cruce_og.py 2010 --validar 2009 2011 2012 2013 2014 2015 2016 2017 2022 2023
       - name: Cuadernillos de imágenes (portal y copias) → data/img
         if: inputs.paso == 'imagenes'
         run: |
