@@ -7,7 +7,7 @@ Qué asignaturas caerán en el PIR 2027 (sábado 23 de enero de 2027), estimado 
 
 ## Qué hace
 
-1. **Predicción por asignatura.** Cuenta cuántas preguntas ha tenido cada asignatura (Farmacología, Bioquímica, Fisiología, Microbiología, Fisicoquímica, Técnicas instrumentales, etc.) en cada PIR, las convierte en proporción del examen y estima cuántas tendrá en 2027 sobre 200, con un intervalo del 80 %.
+1. **Predicción por asignatura.** Cuenta cuántas preguntas ha tenido cada asignatura (Trastornos del adulto, Tratamientos, Infanto-juvenil, Evaluación, Psicología básica, etc.) en cada PIR, las convierte en proporción del examen y estima cuántas tendrá en 2027 sobre 200, con un intervalo del 80 %.
    - Método: media ponderada en la que los años recientes pesan más (semivida de 4 años), más la mitad de la tendencia lineal.
 2. **Cuánto fiarse.** Se hace una validación a ciegas en los tres últimos PIR: cada uno se predice solo con los años anteriores y se compara con lo que salió.
    - El método se mide frente a dos referencias sencillas: repetir el año anterior y la media de todos los años.
@@ -41,7 +41,7 @@ Qué asignaturas caerán en el PIR 2027 (sábado 23 de enero de 2027), estimado 
    - **Repaso espaciado de fallos:** cada fallo vuelve a salir al día siguiente y, si se acierta, a los 1, 3, 7, 21 y 60 días.
    - **Plan «dónde ganas más puntos»:** preguntas esperadas en 2027 × tu porcentaje de fallo en cada asignatura.
 9. **Banco y exámenes:** el PIR de un año concreto completo (también con enlace `?anio=2019`) y un buscador por palabras, asignatura y año.
-10. **Estructuras y figuras:** el PIR no tiene cuadernillo de imágenes; las estructuras químicas van dibujadas dentro del cuaderno y el texto extraído las pierde. `scripts/pir_figuras.py` localiza cada dibujo (líneas, curvas o imágenes incrustadas), lo asigna a la pregunta en cuya zona cae y guarda la pregunta entera como imagen: 33 preguntas de 2024, 2025 y 2026 se ven con su estructura.
+10. **Imágenes:** el PIR no lleva cuadernillo de imágenes ni figuras dibujadas en el cuaderno; el detector de figuras (`scripts/pir_figuras.py`) no encuentra ninguna.
 11. **Avisar de un error** desde cada pregunta: abre una incidencia de GitHub ya rellenada.
 12. **Instalable y sin conexión** (manifest + service worker): una vez abierta, funciona sin internet.
 13. **Página «Cómo se valida»**, con el cotejo de cada examen frente a lo publicado.
@@ -49,7 +49,7 @@ Qué asignaturas caerán en el PIR 2027 (sábado 23 de enero de 2027), estimado 
 ## Lo que no hace (límites reales)
 
 - **No predice preguntas concretas**, solo cuántas tendrá cada asignatura. El simulacro entrena el formato y el ritmo; no adivina el examen.
-- **El PIR no tiene asignaturas oficiales.** Las 24 asignaturas (`data/asignaturas.json`) son una clasificación propia, parecida a la de las academias. Cada pregunta la asigna `gpt-6-luna` (`scripts/pir_clasifica_ia.py`, secreto `OPENAI_API_KEY`); sin clave, se usan palabras clave, que se equivocan en algunas preguntas.
+- **Las asignaturas son las 12 áreas temáticas de las bases**, con «Psicopatología, tratamientos psicológicos y psicoterapia del adulto» dividida en cuatro (Psicopatología, Trastornos del adulto, Tratamientos y Psicoterapias) y Psicofarmacología separada de Psicobiología: 16 en total (`data/asignaturas.json`). Cada pregunta la asigna `gpt-6-luna` (`scripts/pir_clasifica_ia.py`, secreto `OPENAI_API_KEY`); sin clave, se usan palabras clave.
 - **Que el panel apruebe una pregunta no garantiza que sea correcta.** Reduce los errores, pero varios modelos pueden equivocarse a la vez; la medición dice cuántos se cuelan con preguntas oficiales, y las generadas pueden comportarse algo distinto. Las únicas respuestas con respaldo oficial son las de las preguntas oficiales.
 - **Las anuladas y las preguntas cuya imagen no se tiene no entran en los simulacros.**
 - Herramienta independiente, sin relación con el Ministerio de Sanidad.
@@ -58,32 +58,30 @@ Qué asignaturas caerán en el PIR 2027 (sábado 23 de enero de 2027), estimado 
 
 | Años | Cuaderno | Respuestas |
 |---|---|---|
-| 2022-2026 | Portal FSE del Ministerio (API de su web. titulación Farmacia «F». versión 0) | Hoja de respuestas definitiva oficial |
-| 2009. 2016-2019. 2021 | Copias de los PDF oficiales que enlaza [La Chuleta del PIR](https://www.lachuletadelfir.com/examenes-pir-de-anos-anteriores/) | Plantilla definitiva copiada |
-| 2020 | Ídem | Plantilla definitiva versión 0 publicada por consalud.es; las 5 anuladas coinciden con las publicadas (40. 57. 89. 96 y 166) |
-| 2010-2015 | Ídem | Las plantillas que hay están escaneadas y no se leen. Las respuestas se cruzan **por texto** con la transcripción de [oposicionesgratis.com](https://oposicionesgratis.com/pir/examenes). que declara venir de la plantilla definitiva. Antes se valida esa fuente con los seis años que sí tienen plantilla oficial: coincide en 1.212 de 1.212 respuestas. Las preguntas que no casan con seguridad (y las anuladas) quedan sin respuesta y no entran en los simulacros |
+| 2022-2026 | Portal FSE del Ministerio (API de su web. titulación Psicología «P». versión 0) | Hoja de respuestas definitiva oficial |
+| 2009. 2011-2017 | Copias de los PDF oficiales de [Wiki Persever](https://wikipersever.es/pir/convocatorias) | Plantilla definitiva copiada (misma fuente) |
+| 2010 | Ídem | La plantilla que hay no se lee bien. Las respuestas se cruzan **por texto** con la transcripción de [oposicionesgratis.com](https://oposicionesgratis.com/pir/examenes). validada antes con las plantillas oficiales de diez años: coincide en 2.199 de 2.206 respuestas (99.7 %) |
+| 2021 | Versión 0 de [pir.es](https://pir.es) (CeDe) | Plantilla definitiva versión 0 publicada por consalud.es; sus 12 anuladas coinciden con las publicadas |
+| 2018-2020 | **Faltan.** No se ha encontrado una copia accesible de la versión 0 del cuaderno (examenespsicologia.com no permite la descarga automática) | — |
 
 Todo lo que no viene del portal se marca en la app como «tomada de una copia del cuaderno oficial».
 
 El PIR ha cambiado de tamaño: 250 + 10 preguntas con 5 opciones hasta 2012. 225 + 10 de 2013 a 2019 (con 4 opciones desde 2016). 175 + 10 en 2020-2021 y 200 + 10 desde 2022. El número esperado de cada año se lee de la portada del propio cuaderno. y la predicción trabaja con proporciones.
 
 Comprobaciones antes de aceptar un año copiado:
-- El año del examen se toma del propio cuaderno: «PRUEBAS SELECTIVAS 2019» es el PIR de enero de 2020.
-- El cuaderno debe ser de Farmacia y de la versión 0 si su portada dice la versión; la plantilla. del mismo año.
-- No se puede usar el mismo fichero para dos años.
-- No se admiten más de 15 anuladas.
-- La plantilla debe cubrir al menos el 90 % de las preguntas.
+- El año del examen se toma del propio cuaderno: «PRUEBAS SELECTIVAS 2020» es el PIR de marzo de 2021.
+- El cuaderno debe ser de Psicología. Si su portada dice una versión distinta de la 0. solo se acepta con la plantilla de esa misma versión.
+- La plantilla. del mismo año; no se puede usar el mismo fichero para dos años; no más de 15 anuladas; debe cubrir al menos el 90 % de las preguntas.
+- Las anuladas publicadas de 2019. 2020 y 2021 están en `data/verificacion.json` para el cotejo.
 
-La pregunta 210 de 2022 (de reserva) no tiene texto en el PDF y falta.
-
-En total hay 4.104 preguntas de 18 exámenes; 3.820 se pueden usar en simulacros. La asignatura de cada pregunta la asigna `gpt-6-luna`.
+En total hay 3.450 preguntas de 15 exámenes; 3.322 se pueden usar en simulacros. La asignatura de cada pregunta la asigna `gpt-6-luna`.
 
 ## Datos: cómo se traen los exámenes al repositorio
 
 El flujo **Actions → «Datos PIR» → Run workflow** (`.github/workflows/datos-pir.yml`) hace estos pasos:
 
 1. `scripts/pir_fetch.py --api` abre el portal FSE con Chromium para obtener su token anónimo y pide a su API, convocatoria a convocatoria, el cuaderno de la versión 0 y la hoja de respuestas definitiva.
-2. `scripts/pir_externos.py` completa los años que el portal ya no ofrece con las URL de `data/fuentes_externas.json`. Comprueba que cada cuaderno sea un PDF de Farmacia, de la versión 0, con las preguntas que anuncia su portada y que la plantilla cubra al menos el 90 % de ellas.
+2. `scripts/pir_externos.py` completa los años que el portal ya no ofrece con las URL de `data/fuentes_externas.json`. Comprueba que cada cuaderno sea un PDF de Psicología con las preguntas que anuncia su portada (y, si es de otra versión, que la plantilla sea de esa versión) y que la plantilla cubra al menos el 90 % de ellas.
 3. `scripts/pir_datos.py` extrae el texto (también de páginas a dos columnas), separa preguntas y opciones (4 o 5, según el año), lee la respuesta oficial, clasifica cada pregunta y escribe `data/pir.json` (lo que lee la app) y `data/informe.md` (año a año: preguntas, respuestas leídas, anuladas y huecos).
 
 Con el paso `calibrar`, `scripts/pir_calibracion.py` abre la propia app en Chromium con el secreto `OPENAI_API_KEY` (en memoria, sin escribirlo en disco), mide el panel de agentes con 100 preguntas oficiales y guarda `data/calibracion.json`.
@@ -125,7 +123,7 @@ python3 tests/smoke_test.py        # app completa en Chromium con IA simulada
 
 - Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573)
 
-Basada en OráculoMIR y OráculoEIR, adaptada al examen PIR.
+Basada en OráculoMIR, adaptada al examen PIR.
 
 Fuente de las preguntas oficiales: cuadernos de examen y plantillas definitivas de respuestas publicados por el Ministerio de Sanidad (portal de Formación Sanitaria Especializada).
 
