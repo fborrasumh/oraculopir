@@ -2,10 +2,10 @@
 """OráculoPIR · PIR antiguos (anteriores a los que ofrece el portal) desde copias de terceros de los PDF oficiales (data/fuentes_externas.json).
 Se ejecuta en GitHub Actions (allí hay red):  python3 scripts/pir_externos.py
 Para cada año prueba las URL en orden y se queda con la primera que pasa las comprobaciones:
-  · cuaderno: es un PDF, su portada menciona PSICOLOGÍA, es la versión 0 y se extraen al menos el 90 % de las preguntas esperadas para ese año;
+  · cuaderno: es un PDF, su portada menciona PSICOLOGÍA (si es de otra versión que la 0, solo se acepta con la plantilla de esa misma versión) y se extraen al menos el 90 % de las preguntas esperadas para ese año;
   · plantilla: PDF o página web cuyas respuestas cubren al menos el 90 % de las preguntas extraídas.
 Lo que no pasa se descarta y se dice en el registro. Cada año guarda su origen en data/raw/<año>/origen.txt."""
-import json, re, sys, html, pathlib, urllib.request, urllib.parse, http.cookiejar, tempfile, unicodedata
+import json, re, sys, html, pathlib, urllib.request, urllib.error, urllib.parse, http.cookiejar, tempfile, unicodedata
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import pir_datos as M
 R = pathlib.Path(__file__).resolve().parent.parent; RAW = R / 'data' / 'raw'
@@ -14,11 +14,31 @@ UA = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, 
 cj = http.cookiejar.CookieJar(); OP = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 
 
+def baja_navegador(url):
+    """Descarga con Chromium (Playwright): sirve para webs que devuelven 403 a urllib o sirven el PDF tras una página."""
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        b = p.chromium.launch(); ctx = b.new_context(accept_downloads=True, locale='es-ES'); pg = ctx.new_page()
+        try:
+            with pg.expect_download(timeout=60000) as dl:
+                try: pg.goto(url, timeout=60000)
+                except Exception: pass   # la navegación se corta al empezar la descarga
+            datos = pathlib.Path(dl.value.path()).read_bytes()
+        except Exception:
+            r = ctx.request.get(url, timeout=60000); datos = r.body()
+        b.close()
+    if datos[:4] != b'%PDF': raise ValueError('el navegador tampoco obtiene un PDF')
+    return datos
+
+
 def baja(url):
     m = re.search(r'[?&]id=([\w-]+)', url) if 'drive.google' in url else None
     if m: url = f'https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t'
     url = urllib.parse.quote(url, safe=':/?&=%#')   # tildes en el nombre («Formación-Sanitaria-Especializada.pdf»)
-    b = OP.open(urllib.request.Request(url, headers=UA), timeout=120).read()
+    try: b = OP.open(urllib.request.Request(url, headers=UA), timeout=120).read()
+    except urllib.error.HTTPError as e:
+        if e.code != 403: raise
+        b = baja_navegador(url)   # webs que rechazan las descargas automáticas: se abre con un navegador real
     if m and b[:4] != b'%PDF':
         # página de aviso de Drive (fichero grande): reenviar su formulario con los campos ocultos (id, export, confirm, uuid…)
         t = b.decode('utf-8', 'ignore'); f = re.search(r'<form[^>]*action="([^"]+)"[^>]*>(.*?)</form>', t, re.S)
@@ -118,15 +138,15 @@ def main():
                 b = baja(u); tx, tipo = texto_de(b, u)
                 if tipo != 'pdf': raise ValueError('no es un PDF')
                 if not re.search(r'psicolog|psic[óo]logos', tx[:1500], re.I): raise ValueError('la portada no menciona PSICOLOGÍA')
-                ver = re.search(r'versi[oó]n\s*[:\-]?\s*(\d)', tx[:1500], re.I)
-                if ver and ver.group(1) != '0': raise ValueError(f'es la versión {ver.group(1)} del cuaderno y las plantillas que se cruzan son de la versión 0')
+                ver = re.search(r'versi[oó]n\s*[:\-]?\s*(\d)', tx[:3000], re.I) or re.search(r'\bVer\.\s*:\s*(\d)', tx[:4000])
+                vc = ver.group(1) if ver else '0'   # versión del cuaderno: la plantilla que se le cruce tiene que ser de la misma
                 ya = anio_examen(tx)
                 if ya and ya != y: raise ValueError(f'el propio cuaderno dice que es del PIR {ya}')
                 q2, nopt = M.mejor_cuaderno(tx); esp = anunciadas(tx) or ESPERADAS(y)
                 if len(q2) < 0.9 * esp:
                     port = re.search(r'.{0,60}preguntas.{0,60}', tx[:3000].replace('\n', ' '))
                     raise ValueError(f"solo {len(q2)} preguntas de {esp} ({nopt} opciones, última nº {max([q['n'] for q in q2] or [0])}); portada: «{port.group(0) if port else '—'}»; final: «{tx[-200:].replace(chr(10), ' / ')}»")
-                d.mkdir(parents=True, exist_ok=True); (d / 'cuaderno.pdf').write_bytes(b); (d / 'cuaderno.txt').write_text(tx, encoding='utf-8'); qs = q2
+                d.mkdir(parents=True, exist_ok=True); (d / 'cuaderno.pdf').write_bytes(b); (d / 'cuaderno.txt').write_text(tx, encoding='utf-8'); qs = q2; (d / 'version.txt').write_text(vc, encoding='utf-8')
                 origen.append('cuaderno: ' + u); print(f'{y} cuaderno OK ({len(q2)} preg., {nopt} opciones) ← {u}'); break
             except Exception as ex: print(f'{y} cuaderno ✕ {u}: {ex}')
         if not qs: resumen.append(f'{y}: sin cuaderno válido'); continue
@@ -139,6 +159,10 @@ def main():
                     if tipo == 'pdf' and len(tx.strip()) < 200: raise ValueError('PDF escaneado sin texto: no se lee para no arriesgar respuestas mal leídas')
                     if not plantilla_del_anio(tx, y): raise ValueError('la plantilla menciona otros años')
                     if u in usadas: raise ValueError('esta plantilla ya se usó para otro año')
+                    vc = (d / 'version.txt').read_text(encoding='utf-8').strip() if (d / 'version.txt').exists() else '0'
+                    vp = re.search(r'versi[oó]n de examen\s*:?\s*(\d)', tx, re.I) or re.search(r'versi[oó]n\s*:?\s*(\d)', tx[:600], re.I)
+                    if (vp.group(1) if vp else '0') != vc: raise ValueError(f"es la plantilla de la versión {vp.group(1) if vp else '0 (o sin indicar)'} y el cuaderno es de la versión {vc}")
+                    if vc != '0' and len(set(re.findall(r'\bV\s?([0-4])\b', tx))) >= 2: raise ValueError('tabla de varias versiones: solo se lee la versión 0')
                     r = M.parse_plantilla(tx, nmax, nopt)
                     cubre = sum(1 for q in qs if q['n'] in r); anul = sum(1 for q in qs if r.get(q['n']) == 0)
                     if cubre < 0.9 * len(qs): raise ValueError(f"respuestas para {cubre} de {len(qs)}; inicio del texto: «{tx[:700].replace(chr(10), ' / ')}»")

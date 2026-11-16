@@ -107,18 +107,24 @@
  },
  "2020": {
   "cuaderno": [
-   "https://examenespsicologia.com/sdm_downloads/examen-pir-2020/"
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2020/",
+   "https://www.redaccionmedica.com/contenido/images/Cuaderno_2019_PSICOLOG%C3%8DA_1_C.pdf",
+   "https://www.redaccionmedica.com/contenido/images/Cuaderno_2020_PSICOLOG%C3%8DA_1_C.pdf"
   ],
   "plantilla": [
-   "https://www.consalud.es/uploads/s1/12/36/52/2/pir-2020-respuestas-definitivas-version-0.pdf"
+   "https://www.consalud.es/uploads/s1/12/36/52/2/pir-2020-respuestas-definitivas-version-0.pdf",
+   "https://www.consalud.es/uploads/s1/12/36/52/3/pir-2020-respuestas-definitivas-version-1.pdf"
   ]
  },
  "2021": {
   "cuaderno": [
-   "https://examenespsicologia.com/sdm_downloads/examen-pir-2021/"
+   "https://examenespsicologia.com/sdm_downloads/examen-pir-2021/",
+   "https://www.redaccionmedica.com/contenido/images/Cuaderno_2020_PSICOLOG%C3%8DA_1_C.pdf",
+   "https://www.redaccionmedica.com/contenido/images/Cuaderno_2021_PSICOLOG%C3%8DA_1_C.pdf"
   ],
   "plantilla": [
-   "https://www.consalud.es/uploads/s1/15/67/51/0/pir-version-0-respuestas-correctas.pdf"
+   "https://www.consalud.es/uploads/s1/15/67/51/0/pir-version-0-respuestas-correctas.pdf",
+   "https://www.consalud.es/uploads/s1/15/67/51/1/pir-version-1-respuestas-correctas.pdf"
   ]
  }
 }
