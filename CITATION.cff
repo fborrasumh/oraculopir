@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si usas OráculoPIR, cítalo así."
+title: "OráculoPIR"
+abstract: "Predicción por bloque del examen PIR 2027 a partir de los exámenes oficiales, con validación a ciegas, simulacros de preguntas oficiales, reto diario y generador de preguntas verificado por varios agentes de IA."
+type: software
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/fborrasumh/oraculopir"
+url: "https://fborrasumh.github.io/oraculopir/"
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Mira"
+    given-names: "José Joaquín"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0001-6497-083X"
+keywords: [PIR, examen PIR, psicología clínica, predicción, simulacro, inteligencia artificial, formación sanitaria especializada]
