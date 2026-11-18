@@ -122,6 +122,9 @@ python3 tests/smoke_test.py        # app completa en Chromium con IA simulada
 ## Autoría
 
 - Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573)
+- José Joaquín Mira (Universidad Miguel Hernández de Elche) · ORCID [0000-0001-6497-083X](https://orcid.org/0000-0001-6497-083X)
+
+Ambos autores aceptan la licencia MIT.
 
 Basada en OráculoMIR, adaptada al examen PIR.
 
@@ -129,7 +132,7 @@ Fuente de las preguntas oficiales: cuadernos de examen y plantillas definitivas 
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *OráculoPIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculopir (DOI en trámite)
+Borrás Rocher, F., y Mira, J. J. (2026). *OráculoPIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculopir (DOI en trámite)
 
 ## Licencia
 
